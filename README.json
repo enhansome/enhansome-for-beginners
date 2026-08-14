@@ -1,0 +1,3368 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Table of Contents:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MvvmCross",
+          "description": "(label: first-timers-only) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T15:43:28Z",
+            "owner": "MvvmCross",
+            "repo": "MvvmCross",
+            "stars": 3922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legerity",
+          "description": "(label: good first issue) A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T14:14:06Z",
+            "owner": "MADE-Apps",
+            "repo": "legerity",
+            "stars": 91
+          }
+        }
+      ],
+      "title": ".NET"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Julia",
+          "description": "(label: good first issue) The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-14T00:50:48Z",
+            "owner": "JuliaLang",
+            "repo": "julia",
+            "stars": 49003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profanity",
+          "description": "(label: good first issue) Ncurses XMPP chat client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T09:59:44Z",
+            "owner": "profanity-im",
+            "repo": "profanity",
+            "stars": 1532
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osu!",
+          "description": "(label: good first issue) Music game. Rhythm is just a click away!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T09:58:32Z",
+            "owner": "ppy",
+            "repo": "osu",
+            "stars": 18861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectre.Console",
+          "description": "(label: good first issue) A .NET library that makes it easier to create beautiful console applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:01:31Z",
+            "owner": "spectreconsole",
+            "repo": "spectre.console",
+            "stars": 11587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno Platform",
+          "description": "(label: good first issue) OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T00:33:25Z",
+            "owner": "unoplatform",
+            "repo": "uno",
+            "stars": 10010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cake",
+          "description": "(label: Good-first-issue) Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T13:09:54Z",
+            "owner": "cake-build",
+            "repo": "cake",
+            "stars": 4184
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tensorflow",
+          "description": "(label: stat:contributions-welcome) Computation using data flow graphs for scalable machine learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T03:49:33Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 197012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electron",
+          "description": "(label: good first issue) Build cross platform desktop apps with JavaScript, HTML, and CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:26:23Z",
+            "owner": "electron",
+            "repo": "electron",
+            "stars": 122493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Godot Engine",
+          "description": "(label: good first issue) 2D and 3D cross-platform game engine. Also has C# and Python code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:58:46Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 115675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julia",
+          "description": "(label: good first issue) The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-14T00:50:48Z",
+            "owner": "JuliaLang",
+            "repo": "julia",
+            "stars": 49003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yugabyte DB",
+          "description": "(label: good first issue) Distributed SQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-14T03:23:49Z",
+            "owner": "yugabyte",
+            "repo": "yugabyte-db",
+            "stars": 10467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F3D",
+          "description": "(label: good first issue) Fast and minimalist 3D viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:04:23Z",
+            "owner": "f3d-app",
+            "repo": "f3d",
+            "stars": 4623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniOB",
+          "description": "(label: good first issue) MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T09:27:31Z",
+            "owner": "oceanbase",
+            "repo": "miniob",
+            "stars": 4404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "projectM",
+          "description": "(label: good first issue) A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T10:33:57Z",
+            "owner": "projectM-visualizer",
+            "repo": "projectm",
+            "stars": 4373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoveIt",
+          "description": "(label: good first issue) Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T10:18:45Z",
+            "owner": "moveit",
+            "repo": "moveit",
+            "stars": 2074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roc Toolkit",
+          "description": "(label: help-wanted) A toolkit for real-time audio streaming over the network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T19:40:15Z",
+            "owner": "roc-streaming",
+            "repo": "roc-toolkit",
+            "stars": 1246
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flutter",
+          "description": "(label: good first issue) Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-14T03:46:12Z",
+            "owner": "flutter",
+            "repo": "flutter",
+            "stars": 178391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFoodFacts",
+          "description": "(label: good first issue) Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T17:26:34Z",
+            "owner": "openfoodfacts",
+            "repo": "smooth-app",
+            "stars": 1396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dart.dev",
+          "description": "(label: beginner) A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T15:55:01Z",
+            "owner": "dart-lang",
+            "repo": "site-www",
+            "stars": 1050
+          }
+        }
+      ],
+      "title": "Dart"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elixir",
+          "description": "(label: Level:Starter) Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T19:39:40Z",
+            "owner": "elixir-lang",
+            "repo": "elixir",
+            "stars": 26595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ecto",
+          "description": "(label: Level:Starter) Ecto is a database wrapper and language integrated query for Elixir",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-09T15:14:11Z",
+            "owner": "elixir-ecto",
+            "repo": "ecto",
+            "stars": 6489
+          }
+        }
+      ],
+      "title": "Elixir"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": "(label: good first issue) Production-Grade Container Scheduling and Management System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T00:41:27Z",
+            "owner": "kubernetes",
+            "repo": "kubernetes",
+            "stars": 124504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo",
+          "description": "(label: GoodFirstIssue) A Fast and Flexible Static Site Generator built with love in GoLang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:39:51Z",
+            "owner": "gohugoio",
+            "repo": "hugo",
+            "stars": 89439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moby",
+          "description": "(label: exp/beginner) Open-source application container engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:32:26Z",
+            "owner": "moby",
+            "repo": "moby",
+            "stars": 72021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform",
+          "description": "(label: good first issue) A tool for building, changing, and versioning infrastructure safely and efficiently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:48:08Z",
+            "owner": "hashicorp",
+            "repo": "terraform",
+            "stars": 49498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TiDB",
+          "description": "(label: good first issue) A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T03:52:51Z",
+            "owner": "pingcap",
+            "repo": "tidb",
+            "stars": 40426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mattermost",
+          "description": "(label: Good First Issue, Difficulty/1:Easy) Open source Slack-alternative in Golang and ReactLook for issues labelled 'Up For Grabs'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:22:31Z",
+            "owner": "mattermost",
+            "repo": "mattermost",
+            "stars": 38767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigNoz",
+          "description": "(label: good first issue) An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:40:19Z",
+            "owner": "SigNoz",
+            "repo": "signoz",
+            "stars": 31835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helm",
+          "description": "(label: good first issue) The Kubernetes Package Manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:22:26Z",
+            "owner": "helm",
+            "repo": "helm",
+            "stars": 30164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "containerd",
+          "description": "(label: exp/beginner) Industry-standard container runtime with an emphasis on simplicity, robustness and portability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T22:43:30Z",
+            "owner": "containerd",
+            "repo": "containerd",
+            "stars": 21115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meshery",
+          "description": "(label: good first issue) Meshery, the service mesh management plane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:52:13Z",
+            "owner": "meshery",
+            "repo": "meshery",
+            "stars": 11481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "script",
+          "description": "(label: good first issue) A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T16:43:54Z",
+            "owner": "bitfield",
+            "repo": "script",
+            "stars": 7019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker/CLI",
+          "description": "(label: exp/beginner) The Docker CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:42:46Z",
+            "owner": "docker",
+            "repo": "cli",
+            "stars": 6001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alda",
+          "description": "(label: low-hanging fruit) A music programming language for musicians. 🎶",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T23:51:18Z",
+            "owner": "alda-lang",
+            "repo": "alda",
+            "stars": 5938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lxd",
+          "description": "(label: easy) System container and virtual machine manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T02:06:06Z",
+            "owner": "lxc",
+            "repo": "incus",
+            "stars": 5934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragonfly",
+          "description": "(label: good first issue) Provide efficient, stable and secure file distribution and image acceleration based on p2p technology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T03:32:09Z",
+            "owner": "dragonflyoss",
+            "repo": "dragonfly",
+            "stars": 3296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanister",
+          "description": "(label: good first issue) A Data Protection Workflow Management Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T02:22:49Z",
+            "owner": "kanisterio",
+            "repo": "kanister",
+            "stars": 883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utils",
+          "description": "(label: good first issue) Common Utilities library for Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T05:32:15Z",
+            "owner": "kashifkhan0771",
+            "repo": "utils",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "elasticsearch",
+          "description": "(label: good first issue) Open Source, Distributed, RESTful Search Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T03:47:42Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuestDB",
+          "description": "(label: Good first issue) Questdb is a fast open source SQL time series database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T03:19:46Z",
+            "owner": "questdb",
+            "repo": "questdb",
+            "stars": 17254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMetadata",
+          "description": "(label: good first issue) OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:46:35Z",
+            "owner": "open-metadata",
+            "repo": "OpenMetadata",
+            "stars": 14870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trino (formerly Presto SQL)",
+          "description": "(label: good first issue) A distributed SQL query engine for big data. Ask for guidance on project's Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T03:23:46Z",
+            "owner": "trinodb",
+            "repo": "trino",
+            "stars": 13139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JabRef",
+          "description": "(label: good first issue) Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T21:52:44Z",
+            "owner": "JabRef",
+            "repo": "jabref",
+            "stars": 4589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codename One",
+          "description": "(label: good first issue) Cross-platform mobile app development framework for Java developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T03:48:33Z",
+            "owner": "codenameone",
+            "repo": "CodenameOne",
+            "stars": 1860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TEAMMATES",
+          "description": "(label: good first issue) TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-29T07:48:14Z",
+            "owner": "TEAMMATES",
+            "repo": "teammates",
+            "stars": 1845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catima - Android App",
+          "description": "(label: good first issue) Catima, a Loyalty Card & Ticket Manager for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T02:55:47Z",
+            "owner": "CatimaLoyalty",
+            "repo": "Android",
+            "stars": 1660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wikimedia Commons Android App",
+          "description": "(label: good first issue) Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T13:01:06Z",
+            "owner": "commons-app",
+            "repo": "apps-android-commons",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zerocode",
+          "description": "(label: good first issue) API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T10:34:27Z",
+            "owner": "authorjapps",
+            "repo": "zerocode",
+            "stars": 1012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSA",
+          "description": "(label: good first issue) DSA questions practising repo for Java developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-30T10:51:47Z",
+            "owner": "abhishektripathi66",
+            "repo": "DSA",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freeCodeCamp",
+          "description": "(label: first-timers-only) Open source codebase and curriculum. Learn to code and help nonprofits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:20:52Z",
+            "owner": "freeCodeCamp",
+            "repo": "freeCodeCamp",
+            "stars": 453980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React",
+          "description": "(label: good first issue) A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:44:43Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue.js",
+          "description": "(label: good first issue) The Progressive JavaScript Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-10T07:24:15Z",
+            "owner": "vuejs",
+            "repo": "vue",
+            "stars": 210239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js",
+          "description": "(label: good first issue) A minimalistic framework for universal server-rendered React applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T01:05:10Z",
+            "owner": "vercel",
+            "repo": "next.js",
+            "stars": 141779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native",
+          "description": "(label: Good-first-issue) A framework for building native apps with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T01:01:13Z",
+            "owner": "react",
+            "repo": "react-native",
+            "stars": 126342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electron",
+          "description": "(label: good first issue) Build cross platform desktop apps with JavaScript, HTML, and CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:26:23Z",
+            "owner": "electron",
+            "repo": "electron",
+            "stars": 122493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js core",
+          "description": "(label: good first issue) JavaScript runtime built on Chrome's V8 JavaScript engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T03:40:00Z",
+            "owner": "nodejs",
+            "repo": "node",
+            "stars": 118933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React App",
+          "description": "(label: good first issue) Create React apps with no build configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-ui",
+          "description": "(label: good first issue) React components for faster and easier web development. Build your own design system, or start with Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:53:12Z",
+            "owner": "mui",
+            "repo": "material-ui",
+            "stars": 98760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storybook JS",
+          "description": "(label: good first issue) Storybook is a frontend workshop for building UI components and pages in isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:03:56Z",
+            "owner": "storybookjs",
+            "repo": "storybook",
+            "stars": 90847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte",
+          "description": "(label: good first issue) Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T18:12:40Z",
+            "owner": "sveltejs",
+            "repo": "svelte",
+            "stars": 87983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vite",
+          "description": "(label: good first issue) Next generation frontend tooling. It's fast! Alternative to Create React App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:09:28Z",
+            "owner": "vitejs",
+            "repo": "vite",
+            "stars": 82346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoppscotch",
+          "description": "(label: good first issue) A free, fast and beautiful API request builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T13:13:45Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby.js",
+          "description": "(label: good first issue) Build blazing fast, modern apps and websites with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost",
+          "description": "(label: good first issue) Just a blogging platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T03:37:34Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 54755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cypress",
+          "description": "(label: good first issue) Fast, easy and reliable testing for anything that runs in a browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:29:42Z",
+            "owner": "cypress-io",
+            "repo": "cypress",
+            "stars": 50964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixi.js",
+          "description": "(label: 🤩 Good First PR) A 2D JavaScript Renderer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:23:23Z",
+            "owner": "pixijs",
+            "repo": "pixijs",
+            "stars": 48007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moment.js",
+          "description": "(label: Up-For-Grabs) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T19:28:14Z",
+            "owner": "moment",
+            "repo": "moment",
+            "stars": 47919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless",
+          "description": "(label: good first issue) The Serverless Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:28:21Z",
+            "owner": "serverless",
+            "repo": "serverless",
+            "stars": 46921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leaflet",
+          "description": "(label: good first issue) JavaScript library for mobile-friendly interactive maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:11:21Z",
+            "owner": "Leaflet",
+            "repo": "Leaflet",
+            "stars": 45480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jest",
+          "description": "(label: good first issue) A complete and easy to set up JavaScript testing solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:22:23Z",
+            "owner": "jestjs",
+            "repo": "jest",
+            "stars": 45469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor",
+          "description": "(label: good first issue) Meteor is an ultra-simple environment for building modern web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:54:13Z",
+            "owner": "meteor",
+            "repo": "meteor",
+            "stars": 44810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babel",
+          "description": "(label: good first issue) A compiler for writing next generation JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:16:12Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video.js",
+          "description": "(label: good first issue) The player framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T10:03:33Z",
+            "owner": "videojs",
+            "repo": "video.js",
+            "stars": 39850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mattermost",
+          "description": "(label: Good First Issue, Difficulty/1:Easy) Open source Slack-alternative in Golang and ReactLook for issues labelled 'Up For Grabs'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:22:31Z",
+            "owner": "mattermost",
+            "repo": "mattermost",
+            "stars": 38767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastify",
+          "description": "(label: good first issue) Fast and low overhead web framework, for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:20:15Z",
+            "owner": "fastify",
+            "repo": "fastify",
+            "stars": 36984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESLint",
+          "description": "(label: good first issue) A fully pluggable tool for identifying and reporting on patterns in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T16:47:02Z",
+            "owner": "eslint",
+            "repo": "eslint",
+            "stars": 27455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NativeScript",
+          "description": "(label: good first issue) NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:02:28Z",
+            "owner": "NativeScript",
+            "repo": "NativeScript",
+            "stars": 25603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p5.js",
+          "description": "(label: good first issue) p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T08:50:03Z",
+            "owner": "processing",
+            "repo": "p5.js",
+            "stars": 23872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brave Browser",
+          "description": "(label: good first issue) Desktop browser for macOS, Windows, and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-14T00:03:27Z",
+            "owner": "brave",
+            "repo": "brave-browser",
+            "stars": 23341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mocha",
+          "description": "(label: good first issue) Javascript test framework for Node.js and the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:51:00Z",
+            "owner": "mochajs",
+            "repo": "mocha",
+            "stars": 22905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VuePress",
+          "description": "(label: good first issue) Minimalistic Vue-powered static site generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T10:06:47Z",
+            "owner": "vuejs",
+            "repo": "vuepress",
+            "stars": 22746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ember.js",
+          "description": "(label: Good-for-New-Contributors) A JavaScript framework for creating ambitious web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:17:19Z",
+            "owner": "emberjs",
+            "repo": "ember.js",
+            "stars": 22569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVA",
+          "description": "(label: good-for-beginner) Futuristic test runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T10:19:10Z",
+            "owner": "avajs",
+            "repo": "ava",
+            "stars": 20836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlify-cms",
+          "description": "(label: good first issue) Open source content management for your git workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T12:37:36Z",
+            "owner": "decaporg",
+            "repo": "decap-cms",
+            "stars": 19296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuclear",
+          "description": "(label: good first issue) Multiplatform music player that streams from free sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:33:06Z",
+            "owner": "nukeop",
+            "repo": "nuclear",
+            "stars": 18265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PouchDB",
+          "description": "(label: help-wanted) PouchDB is a pocket-sized database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T09:39:22Z",
+            "owner": "apache",
+            "repo": "pouchdb",
+            "stars": 17598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jasmine",
+          "description": "(label: good first issue) Simple JavaScript testing framework for browsers and node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T19:18:36Z",
+            "owner": "jasmine",
+            "repo": "jasmine",
+            "stars": 15825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Botpress",
+          "description": "(label: contributor-friendly) The only sane way to build great bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:31:41Z",
+            "owner": "botpress",
+            "repo": "botpress",
+            "stars": 14864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habitica",
+          "description": "(label: good first issue) Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T20:14:07Z",
+            "owner": "HabitRPG",
+            "repo": "habitica",
+            "stars": 14061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Odin Project Curriculum",
+          "description": "(label: See Description) An open-source curriculum for learning full-stack web development. There are a few \"Type: Good First Issue\" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T00:34:06Z",
+            "owner": "TheOdinProject",
+            "repo": "curriculum",
+            "stars": 12925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reactjs.org",
+          "description": "(label: good first issue) The documentation website for reactjs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:21:35Z",
+            "owner": "reactjs",
+            "repo": "react.dev",
+            "stars": 11782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webdriver.io",
+          "description": "(label: first-timers-only) Next-gen browser and mobile automation test framework for Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:41:59Z",
+            "owner": "webdriverio",
+            "repo": "webdriverio",
+            "stars": 9817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grommet",
+          "description": "(label: good first issue) a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T21:23:07Z",
+            "owner": "grommet",
+            "repo": "grommet",
+            "stars": 8354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berry - Active development trunk for Yarn",
+          "description": "(label: good first issue) Fast, reliable, and secure dependency management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:08:22Z",
+            "owner": "yarnpkg",
+            "repo": "berry",
+            "stars": 8096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "altair",
+          "description": "(label: good first issue) A beautiful feature-rich GraphQL Client for all platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T06:44:48Z",
+            "owner": "altair-graphql",
+            "repo": "altair",
+            "stars": 5425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-unicorn",
+          "description": "(label: good-for-beginner) Awesome ESLint rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T01:01:41Z",
+            "owner": "sindresorhus",
+            "repo": "eslint-plugin-unicorn",
+            "stars": 5218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveSearch",
+          "description": "(label: good first issue-:wave:) A UI components library for Elasticsearch: Available for React, Vue and React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T10:01:44Z",
+            "owner": "appbaseio",
+            "repo": "reactivesearch",
+            "stars": 4924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Router",
+          "description": "(label: good first issue) The official router for Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T15:26:33Z",
+            "owner": "vuejs",
+            "repo": "router",
+            "stars": 4667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImprovedTube",
+          "description": "(label: good first issue) A powerful but lightweight extension, to enrich your video experience & enable your content selection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:30:04Z",
+            "owner": "code-charity",
+            "repo": "youtube",
+            "stars": 4530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swag-for-dev",
+          "description": "(label: good first issue) Swag opportunities for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T08:36:38Z",
+            "owner": "swapagarwal",
+            "repo": "swag-for-dev",
+            "stars": 4388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iD",
+          "description": "(label: new contributor opportunity) The easy-to-use OpenStreetMap editor in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:23:14Z",
+            "owner": "openstreetmap",
+            "repo": "iD",
+            "stars": 3854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ember.js Data",
+          "description": "(label: Good-for-New-Contributors) A data persistence library for Ember.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:47:07Z",
+            "owner": "warp-drive-data",
+            "repo": "warp-drive",
+            "stars": 3156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stryker",
+          "description": "(label: 👶 Good first issue) The JavaScript mutation testing framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:48:07Z",
+            "owner": "stryker-mutator",
+            "repo": "stryker-js",
+            "stars": 3008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vest",
+          "description": "(label: good first issue) Validations framework inspired by unit testing frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T02:03:41Z",
+            "owner": "ealush",
+            "repo": "vest",
+            "stars": 2665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ancient Beast",
+          "description": "(label: easy) Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:38:13Z",
+            "owner": "FreezingMoon",
+            "repo": "AncientBeast",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMPL",
+          "description": "(label: good first issue) Server-oriented customizable templating for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T13:54:43Z",
+            "owner": "hmpl-language",
+            "repo": "hmpl",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "name-suggestion-index",
+          "description": "(label: good first issue) Canonical common brand names for OpenStreetMap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JSON",
+            "last_commit": "2026-08-13T07:55:48Z",
+            "owner": "osmlab",
+            "repo": "name-suggestion-index",
+            "stars": 869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Hub App",
+          "description": "(label: good first issue) Angular & Electron app for browsing and searching videos on your PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:18:25Z",
+            "owner": "whyboris",
+            "repo": "Video-Hub-App",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ramda-adjunct",
+          "description": "(label: help-wanted) Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T00:00:57Z",
+            "owner": "char0n",
+            "repo": "ramda-adjunct",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time to Leave",
+          "description": "(label: good first issue) Working hours time tracker app based on Electron and Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T09:05:40Z",
+            "owner": "TTLApp",
+            "repo": "time-to-leave",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kinto.js",
+          "description": "(label: easy-pick) An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T08:12:33Z",
+            "owner": "Kinto",
+            "repo": "kinto.js",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Check It Out",
+          "description": "(label: good first issue) Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-27T15:46:18Z",
+            "owner": "jwu910",
+            "repo": "check-it-out",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HueHive",
+          "description": "(label: good first issue) An open source react native app iOS and android for color palette management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-28T04:14:59Z",
+            "owner": "croma-app",
+            "repo": "huehive-mobile-app",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCalc",
+          "description": "(label: good first issue) A simple and beautiful calculator for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-10T14:17:39Z",
+            "owner": "clementwzk",
+            "repo": "OpenCalc",
+            "stars": 1505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Non-Blocking SirixDB HTTP(S)-Server",
+          "description": "(label: good first issue) A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T00:20:41Z",
+            "owner": "sirixdb",
+            "repo": "sirix",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atrium",
+          "description": "(label: good first issue) Multiplatform assertion library for Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T16:56:46Z",
+            "owner": "robstoll",
+            "repo": "atrium",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexagon",
+          "description": "(label: help-wanted) A microservices toolkit written in Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-07-07T14:59:03Z",
+            "owner": "hexagontk",
+            "repo": "hexagon",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scribe-Android",
+          "description": "(label: good first issue) Android keyboards for language learners with translation, verb conjugation and more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:35:32Z",
+            "owner": "scribe-org",
+            "repo": "Scribe-Android",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Kotlin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tldr-pages",
+          "description": "(label: help-wanted) Collaborative cheatsheets for console commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-13T16:12:48Z",
+            "owner": "tldr-pages",
+            "repo": "tldr",
+            "stars": 63399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Odin Project Curriculum",
+          "description": "(label: See Description) An open-source curriculum for learning full-stack web development. There are a few \"Type: Good First Issue\" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T00:34:06Z",
+            "owner": "TheOdinProject",
+            "repo": "curriculum",
+            "stars": 12925
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": "(label: good first issue) An End-to-end backend server for frontend and mobile developers. 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:20:41Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 56936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextCloud Server",
+          "description": "(label: good first issue) Nextcloud server, a safe home for all your data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T03:00:06Z",
+            "owner": "nextcloud",
+            "repo": "server",
+            "stars": 36416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony",
+          "description": "(label: good first issue) Symfony is a PHP framework for web applications and a set of reusable PHP components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T19:30:04Z",
+            "owner": "symfony",
+            "repo": "symfony",
+            "stars": 31122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matomo",
+          "description": "(label: help-wanted) Matomo is the leading Free/Libre open analytics platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T02:57:14Z",
+            "owner": "matomo-org",
+            "repo": "matomo",
+            "stars": 21766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreshRSS",
+          "description": "(label: good first issue) FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T19:53:52Z",
+            "owner": "FreshRSS",
+            "repo": "FreshRSS",
+            "stars": 15769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deployer",
+          "description": "(label: good-for-beginner) A deployment tool written in PHP with support for popular frameworks out of the box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-13T13:12:20Z",
+            "owner": "deployphp",
+            "repo": "deployer",
+            "stars": 11096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrestaShop",
+          "description": "(label: good first issue) The open source ecommerce solution to start your online business and start selling online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T12:09:37Z",
+            "owner": "PrestaShop",
+            "repo": "PrestaShop",
+            "stars": 9187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phpMyAdmin",
+          "description": "(label: newbie) Admin interface for MySQL written in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T22:10:34Z",
+            "owner": "phpmyadmin",
+            "repo": "phpmyadmin",
+            "stars": 7910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flarum",
+          "description": "(label: Good-first-issue) Simple forum software for building great communities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T18:46:38Z",
+            "owner": "flarum",
+            "repo": "framework",
+            "stars": 6742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeIgniter",
+          "description": "(label: good first issue) A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T20:29:00Z",
+            "owner": "codeigniter4",
+            "repo": "CodeIgniter4",
+            "stars": 5961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Newsletters",
+          "description": "(label: good first issue) A package that provides an easy way to integrate MailChimp with Laravel 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:46:05Z",
+            "owner": "spatie",
+            "repo": "laravel-newsletter",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Censor",
+          "description": "(label: good-for-beginner) Open source self-hosted continuous integration server for PHP projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-31T07:19:45Z",
+            "owner": "php-censor",
+            "repo": "php-censor",
+            "stars": 689
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pytorch",
+          "description": "(label: good first issue) PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:48:48Z",
+            "owner": "pytorch",
+            "repo": "pytorch",
+            "stars": 102365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastAPI",
+          "description": "(label: good first issue) A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:19:26Z",
+            "owner": "fastapi",
+            "repo": "fastapi",
+            "stars": 101580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": "(label: easyfix) A simple IT automation platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:53:38Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-learn",
+          "description": "(label: good first issue) Scikit-learn is a machine learning library for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:04:45Z",
+            "owner": "scikit-learn",
+            "repo": "scikit-learn",
+            "stars": 66977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scrapy",
+          "description": "(label: good first issue) A fast high-level web crawling & scraping framework for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:42:38Z",
+            "owner": "scrapy",
+            "repo": "scrapy",
+            "stars": 63842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mem0",
+          "description": "(label: good first issue) Mem0 is a memory framework for LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:09:47Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandas",
+          "description": "(label: good first issue) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T01:53:16Z",
+            "owner": "pandas-dev",
+            "repo": "pandas",
+            "stars": 49522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitmproxy",
+          "description": "(label: help-wanted) An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:50:59Z",
+            "owner": "mitmproxy",
+            "repo": "mitmproxy",
+            "stars": 44687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colossal-AI",
+          "description": "(label: good first issue) An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:47:01Z",
+            "owner": "hpcaitech",
+            "repo": "ColossalAI",
+            "stars": 41435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "(label: good first issue) MindsDB is an open source AI layer for existing databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-13T21:48:08Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zulip",
+          "description": "(label: good first issue) Powerful open source group chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:51:06Z",
+            "owner": "zulip",
+            "repo": "zulip",
+            "stars": 25704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cookiecutter",
+          "description": "(label: good first issue) A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T17:46:44Z",
+            "owner": "cookiecutter",
+            "repo": "cookiecutter",
+            "stars": 25054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matplotlib",
+          "description": "(label: good first issue) Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:40:28Z",
+            "owner": "matplotlib",
+            "repo": "matplotlib",
+            "stars": 23079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mypy",
+          "description": "(label: good first issue) Optional static typing for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:21:26Z",
+            "owner": "python",
+            "repo": "mypy",
+            "stars": 20592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bokeh",
+          "description": "(label: good first issue) Bokeh is an interactive visualization library for modern web browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:21:42Z",
+            "owner": "bokeh",
+            "repo": "bokeh",
+            "stars": 20429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocsGPT",
+          "description": "(label: good first issue) Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:54:16Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaltStack",
+          "description": "(label: good first issue) Software to automate the management and configuration of any infrastructure or application at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:26:59Z",
+            "owner": "saltstack",
+            "repo": "salt",
+            "stars": 15613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabric",
+          "description": "(label: Low-hanging-fruit) Pythonic remote execution and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T13:53:02Z",
+            "owner": "fabric",
+            "repo": "fabric",
+            "stars": 15487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMetadata",
+          "description": "(label: good first issue) OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:46:35Z",
+            "owner": "open-metadata",
+            "repo": "OpenMetadata",
+            "stars": 14870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SymPy",
+          "description": "(label: Easy-to-Fix) A Python library for symbolic mathematics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:58:56Z",
+            "owner": "sympy",
+            "repo": "sympy",
+            "stars": 14862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pytest",
+          "description": "(label: status:-easy) The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:38:35Z",
+            "owner": "pytest-dev",
+            "repo": "pytest",
+            "stars": 14414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BorgBackup",
+          "description": "(label: easy) Deduplicating backup program with compression and authenticated encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:12:34Z",
+            "owner": "borgbackup",
+            "repo": "borg",
+            "stars": 13603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django cookiecutter",
+          "description": "(label: hacktoberfest) An implementation of Python for backend web development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:22:50Z",
+            "owner": "cookiecutter",
+            "repo": "cookiecutter-django",
+            "stars": 13592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jupyter notebook",
+          "description": "(label: good first issue) Jupyter interactive notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T16:39:00Z",
+            "owner": "jupyter",
+            "repo": "notebook",
+            "stars": 13298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyMC",
+          "description": "(label: beginner friendly) A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:01:11Z",
+            "owner": "pymc-devs",
+            "repo": "pymc",
+            "stars": 9707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oppia",
+          "description": "(label: good first issue) Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:32:47Z",
+            "owner": "oppia",
+            "repo": "oppia",
+            "stars": 6763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperDuperDB",
+          "description": "(label: good first issue) 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-01T15:20:18Z",
+            "owner": "superduper-io",
+            "repo": "superduper",
+            "stars": 5314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kinto",
+          "description": "(label: easy-pick) A lightweight JSON storage service with synchronisation and sharing abilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:27:39Z",
+            "owner": "Kinto",
+            "repo": "kinto",
+            "stars": 4417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2O Wave",
+          "description": "(label: good first issue) Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:06:43Z",
+            "owner": "h2oai",
+            "repo": "wave",
+            "stars": 4248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jarvis",
+          "description": "(label: difficulty/newcomer) A personal assistant for Linux, MacOs and Windows based on Command line Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-01T17:15:18Z",
+            "owner": "sukeesh",
+            "repo": "Jarvis",
+            "stars": 3620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeeWare Briefcase",
+          "description": "(label: good first issue) Turn Python projects into distributable native applications across desktop and mobile platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:33:27Z",
+            "owner": "beeware",
+            "repo": "briefcase",
+            "stars": 3333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wemake-python-styleguide",
+          "description": "(label: level:starter) The strictest and most opinionated python linter ever!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:22:25Z",
+            "owner": "wemake-services",
+            "repo": "wemake-python-styleguide",
+            "stars": 2890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArviZ",
+          "description": "(label: Beginner) Exploratory Analysis of Bayesian Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-08-11T11:51:34Z",
+            "owner": "arviz-devs",
+            "repo": "arviz",
+            "stars": 1845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Babel",
+          "description": "(label: difficulty/low) The Python Internationalization Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:27:45Z",
+            "owner": "python-babel",
+            "repo": "babel",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OMRChecker",
+          "description": "(label: good first issue) OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T06:05:09Z",
+            "owner": "Udayraj123",
+            "repo": "OMRChecker",
+            "stars": 1124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsdroid",
+          "description": "(label: good first issue) An open source chat-ops bot framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T08:46:46Z",
+            "owner": "opsdroid",
+            "repo": "opsdroid",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datascience",
+          "description": "(label: good first issue) A Jupyter notebook Python library for introductory data science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-12T08:13:20Z",
+            "owner": "data-8",
+            "repo": "datascience",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activist",
+          "description": "(label: good first issue) activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:38:12Z",
+            "owner": "activist-org",
+            "repo": "activist",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CiviWiki",
+          "description": "(label: good first issue) Building a Better Democracy for the Internet Age",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T21:01:17Z",
+            "owner": "CiviWiki",
+            "repo": "OpenCiviWiki",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devopness",
+          "description": "(label: good first issue) Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:38:23Z",
+            "owner": "devopness",
+            "repo": "devopness",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mygpo",
+          "description": "(label: starter-issue) The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-31T18:03:54Z",
+            "owner": "gpodder",
+            "repo": "mygpo",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fenn",
+          "description": "(label: good first issue) A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:51:01Z",
+            "owner": "pyfenn",
+            "repo": "fenn",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harmony",
+          "description": "(label: Good First Issue) Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.Up for a challenge? Try this LLM training competition for a chance to win up to £500!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T10:00:08Z",
+            "owner": "harmonydata",
+            "repo": "harmony",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ruby on Rails",
+          "description": "(label: good first issue) Ruby on Rails (Rails) is an open source web application framework written in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T02:42:20Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chatwoot",
+          "description": "(label: good first issue) Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T03:16:35Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 35810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sinatra",
+          "description": "(label: good first issue) Classy web-development dressed in a DSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-20T09:59:21Z",
+            "owner": "sinatra",
+            "repo": "sinatra",
+            "stars": 12452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chef",
+          "description": "(label: Type:-Jump-In) A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T22:44:19Z",
+            "owner": "chef",
+            "repo": "chef",
+            "stars": 8233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hanami",
+          "description": "(label: easy) A modern framework for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-23T01:42:56Z",
+            "owner": "hanami",
+            "repo": "hanami",
+            "stars": 6403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JRuby",
+          "description": "(label: beginner) An implementation of Ruby on the Java Virtual Machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:35:32Z",
+            "owner": "jruby",
+            "repo": "jruby",
+            "stars": 3913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avo Admin for Ruby on Rails",
+          "description": "(label: Good first issue) Build business apps 10x faster using Ruby on Rails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T21:15:18Z",
+            "owner": "avo-hq",
+            "repo": "avo",
+            "stars": 1797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiwoven",
+          "description": "(label: good first issue) The open-source reverse ETL, data activation platform for modern data teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T00:26:22Z",
+            "owner": "Multiwoven",
+            "repo": "multiwoven",
+            "stars": 1669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-build-service",
+          "description": "(label: good first issue-:1st_place_medal:) A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T18:08:08Z",
+            "owner": "openSUSE",
+            "repo": "open-build-service",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osem",
+          "description": "(label: good first issue) Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T15:00:37Z",
+            "owner": "openSUSE",
+            "repo": "osem",
+            "stars": 925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ohai",
+          "description": "(label: Type:-Jump-In) Ohai profiles your system and emits JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T17:57:00Z",
+            "owner": "chef",
+            "repo": "ohai",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapknitter",
+          "description": "(label: first-timers-only) Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-09-11T06:55:00Z",
+            "owner": "publiclab",
+            "repo": "mapknitter",
+            "stars": 274
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sniffnet",
+          "description": "(label: good first issue) Application to comfortably monitor network traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nushell",
+          "description": "(label: good first issue) A modern shell for the GitHub era written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T00:41:38Z",
+            "owner": "nushell",
+            "repo": "nushell",
+            "stars": 40260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Servo",
+          "description": "(label: E-easy) A browser engine designed for applications including embedded use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T03:02:54Z",
+            "owner": "servo",
+            "repo": "servo",
+            "stars": 37696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readest",
+          "description": "(label: good first issue) A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:47:29Z",
+            "owner": "readest",
+            "repo": "readest",
+            "stars": 23389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TiKV",
+          "description": "(label: difficulty/easy) A distributed transactional key-value database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T03:52:47Z",
+            "owner": "tikv",
+            "repo": "tikv",
+            "stars": 16796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyper",
+          "description": "(label: E-easy) A fast, safe and correct low-level HTTP library for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:28:14Z",
+            "owner": "hyperium",
+            "repo": "hyper",
+            "stars": 16273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust-Clippy",
+          "description": "(label: good first issue) A bunch of lints to catch common mistakes and improve Rust code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:21:15Z",
+            "owner": "rust-lang",
+            "repo": "rust-clippy",
+            "stars": 13443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorZero",
+          "description": "(label: good-first-issue) TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-06-11T01:48:44Z",
+            "owner": "tensorzero",
+            "repo": "tensorzero",
+            "stars": 11725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rustfmt",
+          "description": "(label: good first issue) A tool for formatting Rust code according to style guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T08:02:25Z",
+            "owner": "rust-lang",
+            "repo": "rustfmt",
+            "stars": 6933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyrefly",
+          "description": "(label: good first issue) A fast Python typechecker and IDE written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T00:28:44Z",
+            "owner": "facebook",
+            "repo": "pyrefly",
+            "stars": 6884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ockam",
+          "description": "(label: good first issue) End-to-end encryption and mutual authentication for distributed applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-04T22:01:38Z",
+            "owner": "build-trust",
+            "repo": "ockam",
+            "stars": 4631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotenv-linter",
+          "description": "(label: good first issue) Lightning-fast linter for .env files. Written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:55:33Z",
+            "owner": "dotenv-linter",
+            "repo": "dotenv-linter",
+            "stars": 2096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoom-rs",
+          "description": "(label: good first issue) Teleconference system with a web based user interface written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:27:18Z",
+            "owner": "security-union",
+            "repo": "videocall-rs",
+            "stars": 1777
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "playframework",
+          "description": "(label: good first issue) The High Velocity Web Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T20:30:47Z",
+            "owner": "playframework",
+            "repo": "playframework",
+            "stars": 12618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Util",
+          "description": "(label: good first issue) Wonderful reusable code from Twitter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-12-08T14:10:27Z",
+            "owner": "twitter",
+            "repo": "util",
+            "stars": 2720
+          }
+        }
+      ],
+      "title": "Scala"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "(label: good first issue) A code editor redefined and optimized for building and debugging modern web and cloud applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:23:16Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript",
+          "description": "(label: good first issue) A superset of JavaScript that compiles to clean JavaScript output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:06:52Z",
+            "owner": "microsoft",
+            "repo": "TypeScript",
+            "stars": 110177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supabase",
+          "description": "(label: good first issue) The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:51:07Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storybook JS",
+          "description": "(label: good first issue) Storybook is a frontend workshop for building UI components and pages in isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:03:56Z",
+            "owner": "storybookjs",
+            "repo": "storybook",
+            "stars": 90847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vite",
+          "description": "(label: good first issue) Next generation frontend tooling. It's fast! Alternative to Create React App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:09:28Z",
+            "owner": "vitejs",
+            "repo": "vite",
+            "stars": 82346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metabase",
+          "description": "(label: good first issue) Open source business intelligence and analytics platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-14T03:38:20Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 48751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura GraphQL Engine",
+          "description": "(label: good first issue) Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:28:07Z",
+            "owner": "hasura",
+            "repo": "graphql-engine",
+            "stars": 32082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigNoz",
+          "description": "(label: good first issue) An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:40:19Z",
+            "owner": "SigNoz",
+            "repo": "signoz",
+            "stars": 31835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readest",
+          "description": "(label: good first issue) A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:47:29Z",
+            "owner": "readest",
+            "repo": "readest",
+            "stars": 23389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocsGPT",
+          "description": "(label: good first issue) Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:54:16Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vitest",
+          "description": "(label: good first issue) A blazing fast unit test framework powered by Vite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:08:35Z",
+            "owner": "vitest-dev",
+            "repo": "vitest",
+            "stars": 16944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typescript-eslint",
+          "description": "(label: good first issue) Monorepo for all the tooling which enables ESLint to support TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:17:53Z",
+            "owner": "typescript-eslint",
+            "repo": "typescript-eslint",
+            "stars": 16357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amplication",
+          "description": "(label: good first issue) Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T13:46:55Z",
+            "owner": "amplication",
+            "repo": "amplication",
+            "stars": 16015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMetadata",
+          "description": "(label: good first issue) OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:46:35Z",
+            "owner": "open-metadata",
+            "repo": "OpenMetadata",
+            "stars": 14870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berry - Active development trunk for Yarn",
+          "description": "(label: good first issue) Fast, reliable, and secure dependency management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:08:22Z",
+            "owner": "yarnpkg",
+            "repo": "berry",
+            "stars": 8096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifest",
+          "description": "(label: good first issue) Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:04:29Z",
+            "owner": "mnfst",
+            "repo": "manifest",
+            "stars": 7439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oppia",
+          "description": "(label: good first issue) Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:32:47Z",
+            "owner": "oppia",
+            "repo": "oppia",
+            "stars": 6763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LitmusChaos",
+          "description": "(label: good first issue) Litmus is a toolset to do cloud-native chaos engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T04:40:44Z",
+            "owner": "litmuschaos",
+            "repo": "litmus",
+            "stars": 5594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2O Wave",
+          "description": "(label: good first issue) Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:06:43Z",
+            "owner": "h2oai",
+            "repo": "wave",
+            "stars": 4248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinyhttp",
+          "description": "(label: good first issue) A 0-legacy, tiny & fast web framework as a replacement of Express.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:53:34Z",
+            "owner": "tinyhttp",
+            "repo": "tinyhttp",
+            "stars": 2900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reatom",
+          "description": "(label: good first issue) Reatom is declarative and reactive state manager, designed for both simple and complex applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:05:37Z",
+            "owner": "reatom",
+            "repo": "reatom",
+            "stars": 1360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinksHub",
+          "description": "(label: good first issue) LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T01:49:42Z",
+            "owner": "rupali-codes",
+            "repo": "LinksHub",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activist",
+          "description": "(label: good first issue) activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:38:12Z",
+            "owner": "activist-org",
+            "repo": "activist",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Booster",
+          "description": "(label: good first issue) A truly serverless framework, write your code and deploy it in seconds without any server configuration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T17:48:57Z",
+            "owner": "boostercloud",
+            "repo": "booster",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devopness",
+          "description": "(label: good first issue) Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:38:23Z",
+            "owner": "devopness",
+            "repo": "devopness",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impler.io",
+          "description": "(label: good first issue) 100% open source data import experience with readymade CSV & Excel import widget 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T11:04:22Z",
+            "owner": "implerhq",
+            "repo": "impler.io",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IterTools TS",
+          "description": "(label: good first issue) Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T21:52:35Z",
+            "owner": "Smoren",
+            "repo": "itertools-ts",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "TypeScript"
+    },
+    {
+      "description": "Contributions are welcome! See the contributing guidelines.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Thanks to GitHub Sponsors"
+    },
+    {
+      "description": "To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:54:57.579Z",
+    "original_repository": "MunGell/awesome-for-beginners",
+    "original_repository_sha": "69fbfe6a7b8dc686a272229b62337241e0aae600",
+    "enhanced_repository": "enhansome/enhansome-for-beginners",
+    "enhanced_repository_description": null,
+    "title": "Awesome First Pull Request Opportunities with stars"
+  }
+}
