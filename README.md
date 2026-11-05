@@ -14,7 +14,7 @@ If you are a maintainer of open-source projects, add the label `first-timers-onl
 
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) ⭐ 2,016 | 🐛 0 | 📅 2026-08-05 list.
 
-If you would like to be guided through how to contribute to a repository on GitHub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions) ⭐ 56,695 | 🐛 634 | 📅 2026-11-04.
+If you would like to be guided through how to contribute to a repository on GitHub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions) ⭐ 56,707 | 🐛 640 | 📅 2026-11-05.
 
 > \[!TIP]
 > All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
@@ -40,12 +40,12 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## .NET
 
-* [MvvmCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 189 | 🌐 C# | 📅 2026-11-03 *(label: first-timers-only)* <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+* [MvvmCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 191 | 🌐 C# | 📅 2026-11-05 *(label: first-timers-only)* <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 * [Legerity](https://github.com/MADE-Apps/legerity) ⭐ 94 | 🐛 4 | 🌐 C# | 📅 2026-07-22 *(label: good first issue)* <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 
 ## Angular
 
-* [Oppia](https://github.com/oppia/oppia) ⭐ 6,972 | 🐛 1,918 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+* [Oppia](https://github.com/oppia/oppia) ⭐ 6,975 | 🐛 1,926 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 
 ## Ansible
 
@@ -53,43 +53,43 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## C
 
-* [Julia](https://github.com/JuliaLang/julia) ⭐ 49,242 | 🐛 4,375 | 🌐 Julia | 📅 2026-11-04 *(label: good first issue)* <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
+* [Julia](https://github.com/JuliaLang/julia) ⭐ 49,243 | 🐛 4,367 | 🌐 Julia | 📅 2026-11-05 *(label: good first issue)* <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 * [Profanity](https://github.com/profanity-im/profanity) ⭐ 1,552 | 🐛 33 | 🌐 C | 📅 2026-10-30 *(label: good first issue)* <br> Ncurses XMPP chat client.
 
 ## C\#
 
-* [osu!](https://github.com/ppy/osu) ⭐ 19,372 | 🐛 1,871 | 🌐 C# | 📅 2026-11-04 *(label: good first issue)* <br> Music game. Rhythm is just a click away!
-* [Spectre.Console](https://github.com/spectreconsole/spectre.console) ⭐ 11,689 | 🐛 190 | 🌐 C# | 📅 2026-10-26 *(label: good first issue)* <br> A .NET library that makes it easier to create beautiful console applications.
-* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,102 | 🐛 2,127 | 🌐 C# | 📅 2026-11-04 *(label: good first issue)* <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
+* [osu!](https://github.com/ppy/osu) ⭐ 19,376 | 🐛 1,872 | 🌐 C# | 📅 2026-11-05 *(label: good first issue)* <br> Music game. Rhythm is just a click away!
+* [Spectre.Console](https://github.com/spectreconsole/spectre.console) ⭐ 11,690 | 🐛 191 | 🌐 C# | 📅 2026-10-26 *(label: good first issue)* <br> A .NET library that makes it easier to create beautiful console applications.
+* [Uno Platform](https://github.com/unoplatform/uno) ⭐ 10,102 | 🐛 2,141 | 🌐 C# | 📅 2026-11-05 *(label: good first issue)* <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 * [Cake](https://github.com/cake-build/cake) ⭐ 4,200 | 🐛 194 | 🌐 C# | 📅 2026-10-30 *(label: Good-first-issue)* <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
-* [MvvmCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 189 | 🌐 C# | 📅 2026-11-03 *(label: first-timers-only)* <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+* [MvvmCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 191 | 🌐 C# | 📅 2026-11-05 *(label: first-timers-only)* <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 
 ## C++
 
-* [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,294 | 🐛 3,485 | 🌐 C++ | 📅 2026-11-04 *(label: stat:contributions-welcome)* <br> Computation using data flow graphs for scalable machine learning
-* [electron](https://github.com/electron/electron) ⭐ 123,763 | 🐛 779 | 🌐 C++ | 📅 2026-11-04 *(label: good first issue)* <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-* [Godot Engine](https://github.com/godotengine/godot) ⭐ 119,549 | 🐛 18,963 | 🌐 C++ | 📅 2026-11-03 *(label: good first issue)* <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
-* [Julia](https://github.com/JuliaLang/julia) ⭐ 49,242 | 🐛 4,375 | 🌐 Julia | 📅 2026-11-04 *(label: good first issue)* <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
-* [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) ⭐ 10,649 | 🐛 9,180 | 🌐 C | 📅 2026-11-04 *(label: good first issue)* <br> Distributed SQL database.
-* [F3D](https://github.com/f3d-app/f3d) ⭐ 4,989 | 🐛 315 | 🌐 C++ | 📅 2026-11-03 *(label: good first issue)* <br> Fast and minimalist 3D viewer.
+* [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,314 | 🐛 3,487 | 🌐 C++ | 📅 2026-11-05 *(label: stat:contributions-welcome)* <br> Computation using data flow graphs for scalable machine learning
+* [electron](https://github.com/electron/electron) ⭐ 123,782 | 🐛 780 | 🌐 C++ | 📅 2026-11-04 *(label: good first issue)* <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+* [Godot Engine](https://github.com/godotengine/godot) ⭐ 119,600 | 🐛 18,971 | 🌐 C++ | 📅 2026-11-04 *(label: good first issue)* <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+* [Julia](https://github.com/JuliaLang/julia) ⭐ 49,243 | 🐛 4,367 | 🌐 Julia | 📅 2026-11-05 *(label: good first issue)* <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
+* [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) ⭐ 10,652 | 🐛 9,241 | 🌐 C | 📅 2026-11-05 *(label: good first issue)* <br> Distributed SQL database.
+* [F3D](https://github.com/f3d-app/f3d) ⭐ 4,997 | 🐛 318 | 🌐 C++ | 📅 2026-11-05 *(label: good first issue)* <br> Fast and minimalist 3D viewer.
 * [projectM](https://github.com/projectM-visualizer/projectm) ⭐ 4,565 | 🐛 43 | 🌐 C++ | 📅 2026-11-01 *(label: good first issue)* <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
-* [MiniOB](https://github.com/oceanbase/miniob) ⭐ 4,434 | 🐛 63 | 🌐 C++ | 📅 2026-06-25 *(label: good first issue)* <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
-* [MoveIt](https://github.com/moveit/moveit) ⭐ 2,098 | 🐛 622 | 🌐 C++ | 📅 2026-07-20 *(label: good first issue)* <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
+* [MiniOB](https://github.com/oceanbase/miniob) ⭐ 4,436 | 🐛 63 | 🌐 C++ | 📅 2026-06-25 *(label: good first issue)* <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
+* [MoveIt](https://github.com/moveit/moveit) ⭐ 2,097 | 🐛 622 | 🌐 C++ | 📅 2026-07-20 *(label: good first issue)* <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 * [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,263 | 🐛 123 | 🌐 C++ | 📅 2026-08-24 *(label: help-wanted)* <br> A toolkit for real-time audio streaming over the network.
 
 ## Clojure
 
-* [Metabase](https://github.com/metabase/metabase) ⭐ 50,150 | 🐛 4,658 | 🌐 Clojure | 📅 2026-11-04 *(label: good first issue)* <br> Open source business intelligence and analytics platform
+* [Metabase](https://github.com/metabase/metabase) ⭐ 50,174 | 🐛 4,671 | 🌐 Clojure | 📅 2026-11-05 *(label: good first issue)* <br> Open source business intelligence and analytics platform
 
 ## CSS
 
-* [ImprovedTube](https://github.com/code-charity/youtube) ⭐ 4,666 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
+* [ImprovedTube](https://github.com/code-charity/youtube) ⭐ 4,668 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 
 ## Dart
 
-* [flutter](https://github.com/flutter/flutter) ⭐ 181,036 | 🐛 13,507 | 🌐 Dart | 📅 2026-11-04 *(label: good first issue)* <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
-* [OpenFoodFacts](https://github.com/openfoodfacts/smooth-app) ⭐ 1,446 | 🐛 699 | 🌐 Dart | 📅 2026-11-04 *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
-* [dart.dev](https://github.com/dart-lang/site-www) ⭐ 1,056 | 🐛 52 | 🌐 Dart | 📅 2026-11-04 *(label: beginner)* <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
+* [flutter](https://github.com/flutter/flutter) ⭐ 181,056 | 🐛 13,517 | 🌐 Dart | 📅 2026-11-05 *(label: good first issue)* <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
+* [OpenFoodFacts](https://github.com/openfoodfacts/smooth-app) ⭐ 1,447 | 🐛 695 | 🌐 Dart | 📅 2026-11-05 *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+* [dart.dev](https://github.com/dart-lang/site-www) ⭐ 1,056 | 🐛 49 | 🌐 Dart | 📅 2026-11-04 *(label: beginner)* <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 
 ## Electron
 
@@ -97,8 +97,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Elixir
 
-* [Elixir](https://github.com/elixir-lang/elixir) ⭐ 26,700 | 🐛 17 | 🌐 Elixir | 📅 2026-11-04 *(label: Level:Starter)* <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
-* [Ecto](https://github.com/elixir-ecto/ecto) ⭐ 6,500 | 🐛 13 | 🌐 Elixir | 📅 2026-11-01 *(label: Level:Starter)* <br> Ecto is a database wrapper and language integrated query for Elixir
+* [Elixir](https://github.com/elixir-lang/elixir) ⭐ 26,703 | 🐛 17 | 🌐 Elixir | 📅 2026-11-04 *(label: Level:Starter)* <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+* [Ecto](https://github.com/elixir-ecto/ecto) ⭐ 6,500 | 🐛 12 | 🌐 Elixir | 📅 2026-11-04 *(label: Level:Starter)* <br> Ecto is a database wrapper and language integrated query for Elixir
 
 ## Elm
 
@@ -106,106 +106,106 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Go
 
-* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,649 | 🐛 3,227 | 🌐 Go | 📅 2026-11-04 *(label: good first issue)* <br> Production-Grade Container Scheduling and Management System
-* [Hugo](https://github.com/gohugoio/hugo) ⭐ 90,353 | 🐛 215 | 🌐 Go | 📅 2026-11-03 *(label: GoodFirstIssue)* <br> A Fast and Flexible Static Site Generator built with love in GoLang
-* [Moby](https://github.com/moby/moby) ⭐ 72,237 | 🐛 3,951 | 🌐 Go | 📅 2026-11-04 *(label: exp/beginner)* <br> Open-source application container engine
-* [Terraform](https://github.com/hashicorp/terraform) ⭐ 50,124 | 🐛 1,934 | 🌐 Go | 📅 2026-11-03 *(label: good first issue)* <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
-* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,707 | 🐛 7,494 | 🌐 Go | 📅 2026-11-04 *(label: good first issue)* <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
-* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,520 | 🐛 1,105 | 🌐 TypeScript | 📅 2026-11-04 *(label: Good First Issue, Difficulty/1:Easy)* <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
-* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,526 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.
-* [Helm](https://github.com/helm/helm) ⭐ 30,391 | 🐛 498 | 🌐 Go | 📅 2026-11-03 *(label: good first issue)* <br> The Kubernetes Package Manager
-* [containerd](https://github.com/containerd/containerd) ⭐ 21,456 | 🐛 547 | 🌐 Go | 📅 2026-11-03 *(label: exp/beginner)* <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
-* [Meshery](https://github.com/meshery/meshery) ⭐ 12,129 | 🐛 2,356 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Meshery, the service mesh management plane.
-* [script](https://github.com/bitfield/script) ⭐ 7,044 | 🐛 15 | 🌐 Go | 📅 2026-10-07 *(label: good first issue)* <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
-* [Incus](https://github.com/lxc/incus) ⭐ 6,584 | 🐛 35 | 🌐 Go | 📅 2026-11-04 *(label: easy)* <br> System container and virtual machine manager.
-* [Docker/CLI](https://github.com/docker/cli) ⭐ 6,120 | 🐛 927 | 🌐 Go | 📅 2026-11-03 *(label: exp/beginner)* <br> The Docker CLI
-* [Alda](https://github.com/alda-lang/alda) ⭐ 5,959 | 🐛 6 | 🌐 Go | 📅 2026-10-23 *(label: low-hanging fruit)* <br> A music programming language for musicians. 🎶
-* [Dragonfly](https://github.com/dragonflyoss/dragonfly) ⭐ 3,361 | 🐛 26 | 🌐 Go | 📅 2026-11-03 *(label: good first issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
-* [Kanister](https://github.com/kanisterio/kanister) ⭐ 886 | 🐛 95 | 🌐 Go | 📅 2026-11-02 *(label: good first issue)* <br> A Data Protection Workflow Management Engine
+* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,675 | 🐛 3,219 | 🌐 Go | 📅 2026-11-05 *(label: good first issue)* <br> Production-Grade Container Scheduling and Management System
+* [Hugo](https://github.com/gohugoio/hugo) ⭐ 90,380 | 🐛 217 | 🌐 Go | 📅 2026-11-03 *(label: GoodFirstIssue)* <br> A Fast and Flexible Static Site Generator built with love in GoLang
+* [Moby](https://github.com/moby/moby) ⭐ 72,241 | 🐛 3,950 | 🌐 Go | 📅 2026-11-05 *(label: exp/beginner)* <br> Open-source application container engine
+* [Terraform](https://github.com/hashicorp/terraform) ⭐ 50,146 | 🐛 1,931 | 🌐 Go | 📅 2026-11-04 *(label: good first issue)* <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
+* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,710 | 🐛 7,513 | 🌐 Go | 📅 2026-11-05 *(label: good first issue)* <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,534 | 🐛 1,106 | 🌐 TypeScript | 📅 2026-11-05 *(label: Good First Issue, Difficulty/1:Easy)* <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
+* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,533 | 🐛 1,607 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.
+* [Helm](https://github.com/helm/helm) ⭐ 30,395 | 🐛 503 | 🌐 Go | 📅 2026-11-03 *(label: good first issue)* <br> The Kubernetes Package Manager
+* [containerd](https://github.com/containerd/containerd) ⭐ 21,461 | 🐛 545 | 🌐 Go | 📅 2026-11-05 *(label: exp/beginner)* <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
+* [Meshery](https://github.com/meshery/meshery) ⭐ 12,133 | 🐛 2,377 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Meshery, the service mesh management plane.
+* [script](https://github.com/bitfield/script) ⭐ 7,042 | 🐛 15 | 🌐 Go | 📅 2026-10-07 *(label: good first issue)* <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
+* [Incus](https://github.com/lxc/incus) ⭐ 6,587 | 🐛 35 | 🌐 Go | 📅 2026-11-05 *(label: easy)* <br> System container and virtual machine manager.
+* [Docker/CLI](https://github.com/docker/cli) ⭐ 6,121 | 🐛 929 | 🌐 Go | 📅 2026-11-05 *(label: exp/beginner)* <br> The Docker CLI
+* [Alda](https://github.com/alda-lang/alda) ⭐ 5,962 | 🐛 6 | 🌐 Go | 📅 2026-10-23 *(label: low-hanging fruit)* <br> A music programming language for musicians. 🎶
+* [Dragonfly](https://github.com/dragonflyoss/dragonfly) ⭐ 3,361 | 🐛 28 | 🌐 Go | 📅 2026-11-05 *(label: good first issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
+* [Kanister](https://github.com/kanisterio/kanister) ⭐ 884 | 🐛 95 | 🌐 Go | 📅 2026-11-05 *(label: good first issue)* <br> A Data Protection Workflow Management Engine
 * [utils](https://github.com/kashifkhan0771/utils) ⭐ 51 | 🐛 2 | 🌐 Go | 📅 2026-11-03 *(label: good first issue)* <br> Common Utilities library for Go
 * [PureLB](https://gitlab.com/purelb/purelb) *(label: n/a)* <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 
 ## Haskell
 
-* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,125 | 🐛 2,356 | 🌐 TypeScript | 📅 2026-11-03 *(label: good first issue)* <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,125 | 🐛 2,358 | 🌐 TypeScript | 📅 2026-11-03 *(label: good first issue)* <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ## Java
 
-* [elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,484 | 🐛 6,318 | 🌐 Java | 📅 2026-11-04 *(label: good first issue)* <br> Open Source, Distributed, RESTful Search Engine.
-* [QuestDB](https://github.com/questdb/questdb) ⭐ 17,498 | 🐛 1,397 | 🌐 Java | 📅 2026-11-04 *(label: Good first issue)* <br> Questdb is a fast open source SQL time series database.
-* [OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 15,675 | 🐛 947 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-* [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) ⭐ 13,448 | 🐛 2,752 | 🌐 Java | 📅 2026-11-04 *(label: good first issue)* <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
-* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 9,625 | 🐛 880 | 🌐 Java | 📅 2026-11-04 *(label: good first issue)* <br> A development tool to help programmers write Java code that adheres to a coding standard.
-* [JabRef](https://github.com/JabRef/jabref) ⭐ 4,867 | 🐛 505 | 🌐 Java | 📅 2026-11-04 *(label: good first issue)* <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
-* [Codename One](https://github.com/codenameone/CodenameOne) ⭐ 1,931 | 🐛 278 | 🌐 Java | 📅 2026-11-04 *(label: good first issue)* <br> Cross-platform mobile app development framework for Java developers
+* [elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,496 | 🐛 6,356 | 🌐 Java | 📅 2026-11-05 *(label: good first issue)* <br> Open Source, Distributed, RESTful Search Engine.
+* [QuestDB](https://github.com/questdb/questdb) ⭐ 17,503 | 🐛 1,403 | 🌐 Java | 📅 2026-11-05 *(label: Good first issue)* <br> Questdb is a fast open source SQL time series database.
+* [OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 15,680 | 🐛 903 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+* [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) ⭐ 13,463 | 🐛 2,748 | 🌐 Java | 📅 2026-11-05 *(label: good first issue)* <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
+* [Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 9,627 | 🐛 877 | 🌐 Java | 📅 2026-11-05 *(label: good first issue)* <br> A development tool to help programmers write Java code that adheres to a coding standard.
+* [JabRef](https://github.com/JabRef/jabref) ⭐ 4,871 | 🐛 507 | 🌐 Java | 📅 2026-11-05 *(label: good first issue)* <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
+* [Codename One](https://github.com/codenameone/CodenameOne) ⭐ 1,930 | 🐛 274 | 🌐 Java | 📅 2026-11-05 *(label: good first issue)* <br> Cross-platform mobile app development framework for Java developers
 * [TEAMMATES](https://github.com/TEAMMATES/teammates) ⭐ 1,860 | 🐛 67 | 🌐 Java | 📅 2026-07-29 *(label: good first issue)* <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
-* [Catima - Android App](https://github.com/CatimaLoyalty/Android) ⭐ 1,734 | 🐛 170 | 🌐 Java | 📅 2026-11-03 *(label: good first issue)* <br> Catima, a Loyalty Card & Ticket Manager for Android
-* [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) ⭐ 1,192 | 🐛 905 | 🌐 Kotlin | 📅 2026-11-04 *(label: good first issue)* <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
+* [Catima - Android App](https://github.com/CatimaLoyalty/Android) ⭐ 1,734 | 🐛 171 | 🌐 Java | 📅 2026-11-05 *(label: good first issue)* <br> Catima, a Loyalty Card & Ticket Manager for Android
+* [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) ⭐ 1,193 | 🐛 906 | 🌐 Kotlin | 📅 2026-11-05 *(label: good first issue)* <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 * [zerocode](https://github.com/authorjapps/zerocode) ⭐ 1,016 | 🐛 130 | 🌐 Java | 📅 2026-10-31 *(label: good first issue)* <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
-* [Hiero SDK Java](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 264 | 🐛 38 | 🌐 Java | 📅 2026-11-03 *(label: Good First Issue)* <br> Java SDK for interacting with the Hiero network.
+* [Hiero SDK Java](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 264 | 🐛 39 | 🌐 Java | 📅 2026-11-03 *(label: Good First Issue)* <br> Java SDK for interacting with the Hiero network.
 * [DSA](https://github.com/abhishektripathi66/DSA) ⭐ 145 | 🐛 1 | 🌐 Java | 📅 2026-09-15 *(label: good first issue)* <br> DSA questions practising repo for Java developers
 * [XWiki](https://jira.xwiki.org/issues) *(label: onboarding)* <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 
 ## JavaScript
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 458,513 | 🐛 169 | 🌐 TypeScript | 📅 2026-11-04 *(label: first-timers-only)* <br> Open source codebase and curriculum. Learn to code and help nonprofits.
-* [React](https://github.com/react/react) ⭐ 251,911 | 🐛 1,504 | 🌐 JavaScript | 📅 2026-10-31 *(label: good first issue)* <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [Vue.js](https://github.com/vuejs/vue) ⭐ 212,498 | 🐛 638 | 🌐 TypeScript | 📅 2024-10-10 *(label: good first issue)* <br> The Progressive JavaScript Framework.
-* [Next.js](https://github.com/vercel/next.js) ⭐ 143,257 | 🐛 3,790 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A minimalistic framework for universal server-rendered React applications
-* [React Native](https://github.com/react/react-native) ⭐ 126,852 | 🐛 1,367 | 🌐 C++ | 📅 2026-11-03 *(label: Good-first-issue)* <br> A framework for building native apps with React.
-* [electron](https://github.com/electron/electron) ⭐ 123,763 | 🐛 779 | 🌐 C++ | 📅 2026-11-04 *(label: good first issue)* <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-* [Node.js core](https://github.com/nodejs/node) ⭐ 123,227 | 🐛 1,300 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> JavaScript runtime built on Chrome's V8 JavaScript engine
-* [Create React App](https://github.com/react/create-react-app) ⭐ 103,238 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 *(label: good first issue)* <br> Create React apps with no build configuration.
-* [material-ui](https://github.com/mui/material-ui) ⭐ 99,296 | 🐛 1,529 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
-* [Storybook JS](https://github.com/storybookjs/storybook) ⭐ 91,448 | 🐛 1,740 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
-* [Svelte](https://github.com/sveltejs/svelte) ⭐ 88,551 | 🐛 1,254 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
-* [Vite](https://github.com/vitejs/vite) ⭐ 83,714 | 🐛 837 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,740 | 🐛 884 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A free, fast and beautiful API request builder.
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ⭐ 55,920 | 🐛 460 | 🌐 JavaScript | 📅 2026-10-20 *(label: good first issue)* <br> Build blazing fast, modern apps and websites with React.
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,666 | 🐛 214 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Just a blogging platform
-* [cypress](https://github.com/cypress-io/cypress) ⭐ 51,018 | 🐛 1,156 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Fast, easy and reliable testing for anything that runs in a browser.
-* [pixi.js](https://github.com/pixijs/pixijs) ⭐ 48,623 | 🐛 416 | 🌐 TypeScript | 📅 2026-11-03 *(label: 🤩 Good First PR)* <br> A 2D JavaScript Renderer
-* [Moment.js](https://github.com/moment/moment) ⭐ 47,880 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-08 *(label: Up-For-Grabs)* <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-* [serverless](https://github.com/serverless/serverless) ⭐ 46,928 | 🐛 1,204 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> The Serverless Framework
-* [Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,826 | 🐛 338 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue)* <br> JavaScript library for mobile-friendly interactive maps.
-* [Jest](https://github.com/jestjs/jest) ⭐ 45,470 | 🐛 251 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> A complete and easy to set up JavaScript testing solution.
-* [Meteor](https://github.com/meteor/meteor) ⭐ 44,798 | 🐛 438 | 🌐 JavaScript | 📅 2026-11-02 *(label: good first issue)* <br> Meteor is an ultra-simple environment for building modern web applications.
-* [Babel](https://github.com/babel/babel) ⭐ 44,054 | 🐛 747 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A compiler for writing next generation JavaScript.
-* [appsmith](https://github.com/appsmithorg/appsmith) ⭐ 41,153 | 🐛 4,535 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Drag & Drop internal tool builder
-* [Video.js](https://github.com/videojs/video.js) ⭐ 40,070 | 🐛 860 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> The player framework
-* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,520 | 🐛 1,105 | 🌐 TypeScript | 📅 2026-11-04 *(label: Good First Issue, Difficulty/1:Easy)* <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
-* [Fastify](https://github.com/fastify/fastify) ⭐ 37,338 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue)* <br> Fast and low overhead web framework, for Node.js.
-* [ESLint](https://github.com/eslint/eslint) ⭐ 27,604 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
-* [NativeScript](https://github.com/NativeScript/NativeScript) ⭐ 25,690 | 🐛 318 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
-* [p5.js](https://github.com/processing/p5.js) ⭐ 24,300 | 🐛 533 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue)* <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
-* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 24,096 | 🐛 11,691 | 📅 2026-11-04 *(label: good first issue)* <br> Desktop browser for macOS, Windows, and Linux.
-* [Mocha](https://github.com/mochajs/mocha) ⭐ 22,911 | 🐛 239 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue)* <br> Javascript test framework for Node.js and the browser.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 458,574 | 🐛 172 | 🌐 TypeScript | 📅 2026-11-04 *(label: first-timers-only)* <br> Open source codebase and curriculum. Learn to code and help nonprofits.
+* [React](https://github.com/react/react) ⭐ 251,979 | 🐛 1,504 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Vue.js](https://github.com/vuejs/vue) ⭐ 212,489 | 🐛 639 | 🌐 TypeScript | 📅 2024-10-10 *(label: good first issue)* <br> The Progressive JavaScript Framework.
+* [Next.js](https://github.com/vercel/next.js) ⭐ 143,338 | 🐛 3,791 | 🌐 JavaScript | 📅 2026-11-05 *(label: good first issue)* <br> A minimalistic framework for universal server-rendered React applications
+* [React Native](https://github.com/react/react-native) ⭐ 126,856 | 🐛 1,364 | 🌐 C++ | 📅 2026-11-04 *(label: Good-first-issue)* <br> A framework for building native apps with React.
+* [electron](https://github.com/electron/electron) ⭐ 123,782 | 🐛 780 | 🌐 C++ | 📅 2026-11-04 *(label: good first issue)* <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+* [Node.js core](https://github.com/nodejs/node) ⭐ 123,238 | 🐛 1,320 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> JavaScript runtime built on Chrome's V8 JavaScript engine
+* [Create React App](https://github.com/react/create-react-app) ⭐ 103,234 | 🐛 2,408 | 🌐 JavaScript | 📅 2025-02-15 *(label: good first issue)* <br> Create React apps with no build configuration.
+* [material-ui](https://github.com/mui/material-ui) ⭐ 99,304 | 🐛 1,528 | 🌐 JavaScript | 📅 2026-11-05 *(label: good first issue)* <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
+* [Storybook JS](https://github.com/storybookjs/storybook) ⭐ 91,460 | 🐛 1,764 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+* [Svelte](https://github.com/sveltejs/svelte) ⭐ 88,561 | 🐛 1,253 | 🌐 JavaScript | 📅 2026-11-05 *(label: good first issue)* <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
+* [Vite](https://github.com/vitejs/vite) ⭐ 83,740 | 🐛 830 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,755 | 🐛 889 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> A free, fast and beautiful API request builder.
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ⭐ 55,919 | 🐛 461 | 🌐 JavaScript | 📅 2026-10-20 *(label: good first issue)* <br> Build blazing fast, modern apps and websites with React.
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,682 | 🐛 207 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Just a blogging platform
+* [cypress](https://github.com/cypress-io/cypress) ⭐ 51,022 | 🐛 1,158 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Fast, easy and reliable testing for anything that runs in a browser.
+* [pixi.js](https://github.com/pixijs/pixijs) ⭐ 48,625 | 🐛 420 | 🌐 TypeScript | 📅 2026-11-04 *(label: 🤩 Good First PR)* <br> A 2D JavaScript Renderer
+* [Moment.js](https://github.com/moment/moment) ⭐ 47,878 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-08 *(label: Up-For-Grabs)* <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* [serverless](https://github.com/serverless/serverless) ⭐ 46,931 | 🐛 1,209 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> The Serverless Framework
+* [Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,843 | 🐛 333 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> JavaScript library for mobile-friendly interactive maps.
+* [Jest](https://github.com/jestjs/jest) ⭐ 45,470 | 🐛 253 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> A complete and easy to set up JavaScript testing solution.
+* [Meteor](https://github.com/meteor/meteor) ⭐ 44,796 | 🐛 444 | 🌐 JavaScript | 📅 2026-11-02 *(label: good first issue)* <br> Meteor is an ultra-simple environment for building modern web applications.
+* [Babel](https://github.com/babel/babel) ⭐ 44,053 | 🐛 748 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> A compiler for writing next generation JavaScript.
+* [appsmith](https://github.com/appsmithorg/appsmith) ⭐ 41,161 | 🐛 4,521 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Drag & Drop internal tool builder
+* [Video.js](https://github.com/videojs/video.js) ⭐ 40,078 | 🐛 851 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> The player framework
+* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,534 | 🐛 1,106 | 🌐 TypeScript | 📅 2026-11-05 *(label: Good First Issue, Difficulty/1:Easy)* <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
+* [Fastify](https://github.com/fastify/fastify) ⭐ 37,350 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> Fast and low overhead web framework, for Node.js.
+* [ESLint](https://github.com/eslint/eslint) ⭐ 27,606 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+* [NativeScript](https://github.com/NativeScript/NativeScript) ⭐ 25,691 | 🐛 320 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+* [p5.js](https://github.com/processing/p5.js) ⭐ 24,305 | 🐛 531 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 24,112 | 🐛 11,782 | 📅 2026-11-05 *(label: good first issue)* <br> Desktop browser for macOS, Windows, and Linux.
+* [Mocha](https://github.com/mochajs/mocha) ⭐ 22,913 | 🐛 239 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> Javascript test framework for Node.js and the browser.
 * [VuePress](https://github.com/vuejs/vuepress) ⭐ 22,715 | 🐛 604 | 🌐 JavaScript | 📅 2024-08-07 *(label: good first issue)* <br> Minimalistic Vue-powered static site generator
-* [Ember.js](https://github.com/emberjs/ember.js) ⭐ 22,568 | 🐛 281 | 🌐 TypeScript | 📅 2026-11-04 *(label: Good-for-New-Contributors)* <br> A JavaScript framework for creating ambitious web applications.
-* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,460 | 🐛 405 | 🌐 JavaScript | 📅 2026-11-01 *(label: good first issue)* <br> Open source content management for your git workflow.
-* [nuclear](https://github.com/nukeop/nuclear) ⭐ 18,869 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Multiplatform music player that streams from free sources.
-* [PouchDB](https://github.com/apache/pouchdb) ⭐ 17,624 | 🐛 198 | 🌐 JavaScript | 📅 2026-11-03 *(label: help-wanted)* <br> PouchDB is a pocket-sized database.
-* [Jasmine](https://github.com/jasmine/jasmine) ⭐ 15,810 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> Simple JavaScript testing framework for browsers and node.js.
-* [Botpress](https://github.com/botpress/botpress) ⭐ 14,977 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-03 *(label: contributor-friendly)* <br> The only sane way to build great bots.
-* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,291 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-30 *(label: good first issue)* <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
-* [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) ⭐ 13,207 | 🐛 73 | 🌐 JavaScript | 📅 2026-11-03 *(label: See Description)* <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
-* [reactjs.org](https://github.com/reactjs/react.dev) ⭐ 11,832 | 🐛 1,653 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> The documentation website for reactjs
-* [webdriver.io](https://github.com/webdriverio/webdriverio) ⭐ 9,870 | 🐛 224 | 🌐 TypeScript | 📅 2026-11-03 *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
-* [grommet](https://github.com/grommet/grommet) ⭐ 8,353 | 🐛 497 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue)* <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
-* [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) ⭐ 8,124 | 🐛 997 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
-* [altair](https://github.com/altair-graphql/altair) ⭐ 5,432 | 🐛 195 | 🌐 TypeScript | 📅 2026-10-23 *(label: good first issue)* <br> A beautiful feature-rich GraphQL Client for all platforms.
-* [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 5,286 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-03 *(label: good-for-beginner)* <br> Awesome ESLint rules.
-* [ReactiveSearch](https://github.com/appbaseio/reactivesearch) ⭐ 4,923 | 🐛 192 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue-:wave:)* <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
-* [Vue Router](https://github.com/vuejs/router) ⭐ 4,707 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> The official router for Vue.js.
-* [ImprovedTube](https://github.com/code-charity/youtube) ⭐ 4,666 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
+* [Ember.js](https://github.com/emberjs/ember.js) ⭐ 22,569 | 🐛 282 | 🌐 TypeScript | 📅 2026-11-05 *(label: Good-for-New-Contributors)* <br> A JavaScript framework for creating ambitious web applications.
+* [Decap CMS](https://github.com/decaporg/decap-cms) ⭐ 19,459 | 🐛 412 | 🌐 JavaScript | 📅 2026-11-01 *(label: good first issue)* <br> Open source content management for your git workflow.
+* [nuclear](https://github.com/nukeop/nuclear) ⭐ 18,876 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Multiplatform music player that streams from free sources.
+* [PouchDB](https://github.com/apache/pouchdb) ⭐ 17,625 | 🐛 198 | 🌐 JavaScript | 📅 2026-11-04 *(label: help-wanted)* <br> PouchDB is a pocket-sized database.
+* [Jasmine](https://github.com/jasmine/jasmine) ⭐ 15,809 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> Simple JavaScript testing framework for browsers and node.js.
+* [Botpress](https://github.com/botpress/botpress) ⭐ 14,980 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-05 *(label: contributor-friendly)* <br> The only sane way to build great bots.
+* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,294 | 🐛 133 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
+* [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) ⭐ 13,209 | 🐛 74 | 🌐 JavaScript | 📅 2026-11-05 *(label: See Description)* <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
+* [reactjs.org](https://github.com/reactjs/react.dev) ⭐ 11,830 | 🐛 1,601 | 🌐 JavaScript | 📅 2026-11-05 *(label: good first issue)* <br> The documentation website for reactjs
+* [webdriver.io](https://github.com/webdriverio/webdriverio) ⭐ 9,871 | 🐛 233 | 🌐 TypeScript | 📅 2026-11-04 *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
+* [grommet](https://github.com/grommet/grommet) ⭐ 8,353 | 🐛 495 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+* [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) ⭐ 8,123 | 🐛 997 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
+* [altair](https://github.com/altair-graphql/altair) ⭐ 5,433 | 🐛 195 | 🌐 TypeScript | 📅 2026-10-23 *(label: good first issue)* <br> A beautiful feature-rich GraphQL Client for all platforms.
+* [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 5,286 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-04 *(label: good-for-beginner)* <br> Awesome ESLint rules.
+* [ReactiveSearch](https://github.com/appbaseio/reactivesearch) ⭐ 4,923 | 🐛 195 | 🌐 JavaScript | 📅 2026-11-05 *(label: good first issue-:wave:)* <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
+* [Vue Router](https://github.com/vuejs/router) ⭐ 4,706 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> The official router for Vue.js.
+* [ImprovedTube](https://github.com/code-charity/youtube) ⭐ 4,668 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-11-04 *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) ⭐ 4,405 | 🐛 80 | 🌐 JavaScript | 📅 2024-12-09 *(label: good first issue)* <br> Swag opportunities for developers.
-* [iD](https://github.com/openstreetmap/iD) ⭐ 3,920 | 🐛 973 | 🌐 JavaScript | 📅 2026-11-03 *(label: new contributor opportunity)* <br> The easy-to-use OpenStreetMap editor in JavaScript.
-* [stryker](https://github.com/stryker-mutator/stryker-js) ⭐ 3,324 | 🐛 129 | 🌐 TypeScript | 📅 2026-10-30 *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
-* [WarpDrive](https://github.com/warp-drive-data/warp-drive) ⭐ 3,160 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-04 *(label: Good-for-New-Contributors)* <br> A data persistence library for Ember.js.
-* [Vest](https://github.com/ealush/vest) ⭐ 2,669 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Validations framework inspired by unit testing frameworks.
-* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,890 | 🐛 398 | 🌐 TypeScript | 📅 2026-11-03 *(label: easy)* <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+* [iD](https://github.com/openstreetmap/iD) ⭐ 3,921 | 🐛 979 | 🌐 JavaScript | 📅 2026-11-05 *(label: new contributor opportunity)* <br> The easy-to-use OpenStreetMap editor in JavaScript.
+* [stryker](https://github.com/stryker-mutator/stryker-js) ⭐ 3,331 | 🐛 131 | 🌐 TypeScript | 📅 2026-10-30 *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
+* [WarpDrive](https://github.com/warp-drive-data/warp-drive) ⭐ 3,160 | 🐛 118 | 🌐 TypeScript | 📅 2026-11-05 *(label: Good-for-New-Contributors)* <br> A data persistence library for Ember.js.
+* [Vest](https://github.com/ealush/vest) ⭐ 2,669 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Validations framework inspired by unit testing frameworks.
+* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,890 | 🐛 402 | 🌐 TypeScript | 📅 2026-11-03 *(label: easy)* <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
 * [HMPL](https://github.com/hmpl-language/hmpl) ⭐ 970 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-24 *(label: good first issue)* <br> Server-oriented customizable templating for JavaScript.
-* [name-suggestion-index](https://github.com/osmlab/name-suggestion-index) ⭐ 889 | 🐛 362 | 🌐 JSON | 📅 2026-11-03 *(label: good first issue)* <br> Canonical common brand names for OpenStreetMap
+* [name-suggestion-index](https://github.com/osmlab/name-suggestion-index) ⭐ 889 | 🐛 363 | 🌐 JSON | 📅 2026-11-05 *(label: good first issue)* <br> Canonical common brand names for OpenStreetMap
 * [Video Hub App](https://github.com/whyboris/Video-Hub-App) ⭐ 736 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-25 *(label: good first issue)* <br> Angular & Electron app for browsing and searching videos on your PC.
 * [ramda-adjunct](https://github.com/char0n/ramda-adjunct) ⭐ 687 | 🐛 75 | 🌐 JavaScript | 📅 2026-11-03 *(label: help-wanted)* <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 * [Time to Leave](https://github.com/TTLApp/time-to-leave) ⭐ 489 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-01 *(label: good first issue)* <br> Working hours time tracker app based on Electron and Javascript.
@@ -213,7 +213,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 * [Check It Out](https://github.com/jwu910/check-it-out) ⭐ 165 | 🐛 15 | 🌐 TypeScript | 📅 2024-01-27 *(label: good first issue)* <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 * [HueHive](https://github.com/croma-app/huehive-mobile-app) ⭐ 71 | 🐛 31 | 🌐 JavaScript | 📅 2025-12-28 *(label: good first issue)* <br> An open source react native app iOS and android for color palette management
 * [Posnic](https://github.com/Posnic/POS) ⭐ 16 | 🐛 413 | 🌐 JavaScript | 📅 2026-11-03 *(label: good first issue)* <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
-* [DevShelf](https://github.com/RitualDev-Lab/DevShelf) ⭐ 12 | 🐛 10 | 🌐 HTML | 📅 2026-11-03 *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+* [DevShelf](https://github.com/RitualDev-Lab/DevShelf) ⭐ 12 | 🐛 10 | 🌐 HTML | 📅 2026-11-05 *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 * [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) *(label: difficulty::easy)* <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
 ## JSON
@@ -222,18 +222,18 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Julia
 
-* [Julia](https://github.com/JuliaLang/julia) ⭐ 49,242 | 🐛 4,375 | 🌐 Julia | 📅 2026-11-04 *(label: good first issue)* <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
+* [Julia](https://github.com/JuliaLang/julia) ⭐ 49,243 | 🐛 4,367 | 🌐 Julia | 📅 2026-11-05 *(label: good first issue)* <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 
 ## Kotlin
 
 * [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) ⭐ 1,221 | 🐛 4 | 🌐 Java | 📅 2026-11-03 *(label: good first issue)* <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 * [Atrium](https://github.com/robstoll/atrium) ⭐ 632 | 🐛 43 | 🌐 Kotlin | 📅 2026-11-02 *(label: good first issue)* <br> Multiplatform assertion library for Kotlin
-* [Scribe-Android](https://github.com/scribe-org/Scribe-Android) ⭐ 109 | 🐛 22 | 🌐 C++ | 📅 2026-11-01 *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
+* [Scribe-Android](https://github.com/scribe-org/Scribe-Android) ⭐ 109 | 🐛 23 | 🌐 C++ | 📅 2026-11-04 *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
 
 ## Markdown
 
-* [tldr-pages](https://github.com/tldr-pages/tldr) ⭐ 64,117 | 🐛 283 | 🌐 Markdown | 📅 2026-11-04 *(label: help-wanted)* <br> Collaborative cheatsheets for console commands.
-* [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) ⭐ 13,207 | 🐛 73 | 🌐 JavaScript | 📅 2026-11-03 *(label: See Description)* <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
+* [tldr-pages](https://github.com/tldr-pages/tldr) ⭐ 64,127 | 🐛 287 | 🌐 Markdown | 📅 2026-11-05 *(label: help-wanted)* <br> Collaborative cheatsheets for console commands.
+* [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) ⭐ 13,209 | 🐛 74 | 🌐 JavaScript | 📅 2026-11-05 *(label: See Description)* <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
 
 ## Perl
 
@@ -241,17 +241,17 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## PHP
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,859 | 🐛 754 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> An End-to-end backend server for frontend and mobile developers. 🚀
-* [NextCloud Server](https://github.com/nextcloud/server) ⭐ 37,408 | 🐛 3,912 | 🌐 PHP | 📅 2026-11-04 *(label: good first issue)* <br> Nextcloud server, a safe home for all your data.
-* [Symfony](https://github.com/symfony/symfony) ⭐ 31,215 | 🐛 265 | 🌐 PHP | 📅 2026-11-04 *(label: good first issue)* <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
-* [Matomo](https://github.com/matomo-org/matomo) ⭐ 22,005 | 🐛 2,550 | 🌐 PHP | 📅 2026-11-04 *(label: help-wanted)* <br> Matomo is the leading Free/Libre open analytics platform.
-* [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 16,505 | 🐛 679 | 🌐 PHP | 📅 2026-11-02 *(label: good first issue)* <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
-* [Deployer](https://github.com/deployphp/deployer) ⭐ 11,123 | 🐛 22 | 🌐 PHP | 📅 2026-08-26 *(label: good-for-beginner)* <br> A deployment tool written in PHP with support for popular frameworks out of the box.
-* [PrestaShop](https://github.com/PrestaShop/PrestaShop) ⭐ 9,243 | 🐛 2,344 | 🌐 PHP | 📅 2026-11-04 *(label: good first issue)* <br> The open source ecommerce solution to start your online business and start selling online.
-* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,973 | 🐛 971 | 🌐 PHP | 📅 2026-11-03 *(label: newbie)* <br> Admin interface for MySQL written in PHP.
-* [Flarum](https://github.com/flarum/framework) ⭐ 6,767 | 🐛 132 | 🌐 PHP | 📅 2026-11-03 *(label: Good-first-issue)* <br> Simple forum software for building great communities.
-* [CodeIgniter](https://github.com/codeigniter4/CodeIgniter4) ⭐ 6,007 | 🐛 38 | 🌐 PHP | 📅 2026-11-03 *(label: good first issue)* <br> A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture.
-* [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) ⭐ 1,639 | 🐛 0 | 🌐 PHP | 📅 2026-10-22 *(label: good first issue)* <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,862 | 🐛 754 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> An End-to-end backend server for frontend and mobile developers. 🚀
+* [NextCloud Server](https://github.com/nextcloud/server) ⭐ 37,423 | 🐛 3,867 | 🌐 PHP | 📅 2026-11-05 *(label: good first issue)* <br> Nextcloud server, a safe home for all your data.
+* [Symfony](https://github.com/symfony/symfony) ⭐ 31,217 | 🐛 276 | 🌐 PHP | 📅 2026-11-05 *(label: good first issue)* <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+* [Matomo](https://github.com/matomo-org/matomo) ⭐ 22,006 | 🐛 2,550 | 🌐 PHP | 📅 2026-11-05 *(label: help-wanted)* <br> Matomo is the leading Free/Libre open analytics platform.
+* [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 16,510 | 🐛 679 | 🌐 PHP | 📅 2026-11-02 *(label: good first issue)* <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
+* [Deployer](https://github.com/deployphp/deployer) ⭐ 11,122 | 🐛 22 | 🌐 PHP | 📅 2026-08-26 *(label: good-for-beginner)* <br> A deployment tool written in PHP with support for popular frameworks out of the box.
+* [PrestaShop](https://github.com/PrestaShop/PrestaShop) ⭐ 9,244 | 🐛 2,360 | 🌐 PHP | 📅 2026-11-05 *(label: good first issue)* <br> The open source ecommerce solution to start your online business and start selling online.
+* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,972 | 🐛 971 | 🌐 PHP | 📅 2026-11-03 *(label: newbie)* <br> Admin interface for MySQL written in PHP.
+* [Flarum](https://github.com/flarum/framework) ⭐ 6,766 | 🐛 133 | 🌐 PHP | 📅 2026-11-03 *(label: Good-first-issue)* <br> Simple forum software for building great communities.
+* [CodeIgniter](https://github.com/codeigniter4/CodeIgniter4) ⭐ 6,009 | 🐛 37 | 🌐 PHP | 📅 2026-11-05 *(label: good first issue)* <br> A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture.
+* [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) ⭐ 1,640 | 🐛 0 | 🌐 PHP | 📅 2026-10-22 *(label: good first issue)* <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 * [PHP Censor](https://github.com/php-censor/php-censor) ⭐ 686 | 🐛 24 | 🌐 PHP | 📅 2026-05-31 *(label: good-for-beginner)* <br> Open source self-hosted continuous integration server for PHP projects.
 * [Drupal](https://www.drupal.org/getting-involved-guide) *(label: n/a)* <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 * [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) *(label: n/a)* <br> The free and open-source wiki software package that powers Wikipedia.
@@ -262,86 +262,86 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Python
 
-* [Pytorch](https://github.com/pytorch/pytorch) ⭐ 105,118 | 🐛 17,907 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
-* [FastAPI](https://github.com/fastapi/fastapi) ⭐ 104,394 | 🐛 60 | 🌐 Python | 📅 2026-11-02 *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
-* [Ansible](https://github.com/ansible/ansible) ⭐ 71,236 | 🐛 878 | 🌐 Python | 📅 2026-11-04 *(label: easyfix)* <br> A simple IT automation platform
-* [Mem0](https://github.com/mem0ai/mem0/) ⭐ 68,367 | 🐛 902 | 🌐 Python | 📅 2026-10-30 *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 68,003 | 🐛 2,148 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Scikit-learn is a machine learning library for Python.
-* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,211 | 🐛 193 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> A fast high-level web crawling & scraping framework for Python.
-* [pandas](https://github.com/pandas-dev/pandas) ⭐ 50,322 | 🐛 2,020 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,628 | 🐛 533 | 🌐 Python | 📅 2026-11-03 *(label: help-wanted)* <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,433 | 🐛 484 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
-* [mindshub](https://github.com/mindsdb/mindshub) ⭐ 39,833 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
-* [Zulip](https://github.com/zulip/zulip) ⭐ 26,165 | 🐛 2,064 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Powerful open source group chat.
-* [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,175 | 🐛 336 | 🌐 Python | 📅 2026-04-01 *(label: good first issue)* <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-* [matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,421 | 🐛 1,472 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-* [mypy](https://github.com/python/mypy) ⭐ 20,713 | 🐛 3,244 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Optional static typing for Python.
-* [Bokeh](https://github.com/bokeh/bokeh) ⭐ 20,469 | 🐛 796 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Bokeh is an interactive visualization library for modern web browsers.
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,354 | 🐛 96 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
-* [SaltStack](https://github.com/saltstack/salt) ⭐ 15,732 | 🐛 588 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Software to automate the management and configuration of any infrastructure or application at scale.
-* [OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 15,675 | 🐛 947 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-* [Fabric](https://github.com/fabric/fabric) ⭐ 15,521 | 🐛 509 | 🌐 Python | 📅 2026-04-10 *(label: Low-hanging-fruit)* <br> Pythonic remote execution and deployment.
-* [SymPy](https://github.com/sympy/sympy) ⭐ 15,068 | 🐛 5,818 | 🌐 Python | 📅 2026-11-04 *(label: Easy-to-Fix)* <br> A Python library for symbolic mathematics.
-* [Pytest](https://github.com/pytest-dev/pytest) ⭐ 14,665 | 🐛 922 | 🌐 Python | 📅 2026-11-02 *(label: status:-easy)* <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
-* [BorgBackup](https://github.com/borgbackup/borg) ⭐ 13,911 | 🐛 183 | 🌐 Python | 📅 2026-11-03 *(label: easy)* <br> Deduplicating backup program with compression and authenticated encryption.
-* [django cookiecutter](https://github.com/cookiecutter/cookiecutter-django) ⭐ 13,635 | 🐛 118 | 🌐 Python | 📅 2026-11-04 *(label: hacktoberfest)* <br> An implementation of Python for backend web development.
-* [Jupyter notebook](https://github.com/jupyter/notebook) ⭐ 13,458 | 🐛 1,891 | 🌐 Jupyter Notebook | 📅 2026-10-30 *(label: good first issue)* <br> Jupyter interactive notebook.
-* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,827 | 🐛 491 | 🌐 Python | 📅 2026-11-02 *(label: beginner friendly)* <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
-* [Oppia](https://github.com/oppia/oppia) ⭐ 6,972 | 🐛 1,918 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
-* [Kinto](https://github.com/Kinto/kinto) ⭐ 4,422 | 🐛 95 | 🌐 Python | 📅 2026-11-02 *(label: easy-pick)* <br> A lightweight JSON storage service with synchronisation and sharing abilities.
+* [Pytorch](https://github.com/pytorch/pytorch) ⭐ 105,148 | 🐛 17,935 | 🌐 Python | 📅 2026-11-05 *(label: good first issue)* <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+* [FastAPI](https://github.com/fastapi/fastapi) ⭐ 104,417 | 🐛 61 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+* [Ansible](https://github.com/ansible/ansible) ⭐ 71,256 | 🐛 879 | 🌐 Python | 📅 2026-11-04 *(label: easyfix)* <br> A simple IT automation platform
+* [Mem0](https://github.com/mem0ai/mem0/) ⭐ 68,445 | 🐛 909 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 68,019 | 🐛 2,148 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Scikit-learn is a machine learning library for Python.
+* [scrapy](https://github.com/scrapy/scrapy) ⭐ 65,232 | 🐛 193 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> A fast high-level web crawling & scraping framework for Python.
+* [pandas](https://github.com/pandas-dev/pandas) ⭐ 50,340 | 🐛 2,006 | 🌐 Python | 📅 2026-11-05 *(label: good first issue)* <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,651 | 🐛 536 | 🌐 Python | 📅 2026-11-04 *(label: help-wanted)* <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,432 | 🐛 341 | 🌐 Python | 📅 2026-11-05 *(label: good first issue)* <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+* [mindshub](https://github.com/mindsdb/mindshub) ⭐ 39,839 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
+* [Zulip](https://github.com/zulip/zulip) ⭐ 26,174 | 🐛 2,066 | 🌐 Python | 📅 2026-11-05 *(label: good first issue)* <br> Powerful open source group chat.
+* [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,173 | 🐛 336 | 🌐 Python | 📅 2026-04-01 *(label: good first issue)* <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+* [matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,427 | 🐛 1,471 | 🌐 Python | 📅 2026-11-05 *(label: good first issue)* <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+* [mypy](https://github.com/python/mypy) ⭐ 20,713 | 🐛 3,208 | 🌐 Python | 📅 2026-11-05 *(label: good first issue)* <br> Optional static typing for Python.
+* [Bokeh](https://github.com/bokeh/bokeh) ⭐ 20,468 | 🐛 792 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Bokeh is an interactive visualization library for modern web browsers.
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,356 | 🐛 96 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
+* [SaltStack](https://github.com/saltstack/salt) ⭐ 15,734 | 🐛 601 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Software to automate the management and configuration of any infrastructure or application at scale.
+* [OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 15,680 | 🐛 903 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+* [Fabric](https://github.com/fabric/fabric) ⭐ 15,522 | 🐛 509 | 🌐 Python | 📅 2026-04-10 *(label: Low-hanging-fruit)* <br> Pythonic remote execution and deployment.
+* [SymPy](https://github.com/sympy/sympy) ⭐ 15,070 | 🐛 5,822 | 🌐 Python | 📅 2026-11-04 *(label: Easy-to-Fix)* <br> A Python library for symbolic mathematics.
+* [Pytest](https://github.com/pytest-dev/pytest) ⭐ 14,665 | 🐛 924 | 🌐 Python | 📅 2026-11-04 *(label: status:-easy)* <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+* [BorgBackup](https://github.com/borgbackup/borg) ⭐ 13,911 | 🐛 181 | 🌐 Python | 📅 2026-11-05 *(label: easy)* <br> Deduplicating backup program with compression and authenticated encryption.
+* [django cookiecutter](https://github.com/cookiecutter/cookiecutter-django) ⭐ 13,634 | 🐛 99 | 🌐 Python | 📅 2026-11-05 *(label: hacktoberfest)* <br> An implementation of Python for backend web development.
+* [Jupyter notebook](https://github.com/jupyter/notebook) ⭐ 13,459 | 🐛 1,891 | 🌐 Jupyter Notebook | 📅 2026-10-30 *(label: good first issue)* <br> Jupyter interactive notebook.
+* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,828 | 🐛 495 | 🌐 Python | 📅 2026-11-02 *(label: beginner friendly)* <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
+* [Oppia](https://github.com/oppia/oppia) ⭐ 6,975 | 🐛 1,926 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+* [Kinto](https://github.com/Kinto/kinto) ⭐ 4,422 | 🐛 94 | 🌐 Python | 📅 2026-11-04 *(label: easy-pick)* <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 * [H2O Wave](https://github.com/h2oai/wave) ⭐ 4,262 | 🐛 223 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
-* [jarvis](https://github.com/sukeesh/Jarvis) ⭐ 3,789 | 🐛 127 | 🌐 Python | 📅 2025-12-01 *(label: difficulty/newcomer)* <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
-* [BeeWare Briefcase](https://github.com/beeware/briefcase) ⭐ 3,376 | 🐛 166 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,942 | 🐛 12 | 🌐 Python | 📅 2026-11-04 *(label: level:starter)* <br> The strictest and most opinionated python linter ever!
-* [ArviZ](https://github.com/arviz-devs/arviz) ⭐ 1,862 | 🐛 121 | 🌐 TeX | 📅 2026-11-03 *(label: Beginner)* <br> Exploratory Analysis of Bayesian Models.
-* [Python Babel](https://github.com/python-babel/babel) ⭐ 1,470 | 🐛 266 | 🌐 Python | 📅 2026-11-04 *(label: difficulty/low)* <br> The Python Internationalization Library.
-* [OMRChecker](https://github.com/Udayraj123/OMRChecker) ⭐ 1,189 | 🐛 98 | 🌐 Python | 📅 2026-09-04 *(label: good first issue)* <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
+* [jarvis](https://github.com/sukeesh/Jarvis) ⭐ 3,791 | 🐛 127 | 🌐 Python | 📅 2025-12-01 *(label: difficulty/newcomer)* <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
+* [BeeWare Briefcase](https://github.com/beeware/briefcase) ⭐ 3,376 | 🐛 169 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,943 | 🐛 12 | 🌐 Python | 📅 2026-11-05 *(label: level:starter)* <br> The strictest and most opinionated python linter ever!
+* [ArviZ](https://github.com/arviz-devs/arviz) ⭐ 1,862 | 🐛 121 | 🌐 TeX | 📅 2026-11-04 *(label: Beginner)* <br> Exploratory Analysis of Bayesian Models.
+* [Python Babel](https://github.com/python-babel/babel) ⭐ 1,470 | 🐛 247 | 🌐 Python | 📅 2026-11-05 *(label: difficulty/low)* <br> The Python Internationalization Library.
+* [OMRChecker](https://github.com/Udayraj123/OMRChecker) ⭐ 1,190 | 🐛 98 | 🌐 Python | 📅 2026-09-04 *(label: good first issue)* <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
 * [opsdroid](https://github.com/opsdroid/opsdroid) ⭐ 866 | 🐛 111 | 🌐 Python | 📅 2026-05-05 *(label: good first issue)* <br> An open source chat-ops bot framework.
-* [datascience](https://github.com/data-8/datascience) ⭐ 798 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-01-12 *(label: good first issue)* <br> A Jupyter notebook Python library for introductory data science.
-* [activist](https://github.com/activist-org/activist) ⭐ 765 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-01 *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+* [datascience](https://github.com/data-8/datascience) ⭐ 799 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-01-12 *(label: good first issue)* <br> A Jupyter notebook Python library for introductory data science.
+* [activist](https://github.com/activist-org/activist) ⭐ 765 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-01 *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 * [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) ⭐ 632 | 🐛 42 | 🌐 Python | 📅 2024-12-11 *(label: good first issue)* <br> Building a Better Democracy for the Internet Age
-* [Devopness](https://github.com/devopness/devopness) ⭐ 572 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+* [Devopness](https://github.com/devopness/devopness) ⭐ 575 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
 * [mygpo](https://github.com/gpodder/mygpo) ⭐ 310 | 🐛 140 | 🌐 Python | 📅 2026-10-21 *(label: starter-issue)* <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
-* [fenn](https://github.com/pyfenn/fenn) ⭐ 84 | 🐛 33 | 🌐 Python | 📅 2026-08-10 *(label: good first issue)* <br> A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.
+* [fenn](https://github.com/pyfenn/fenn) ⭐ 85 | 🐛 33 | 🌐 Python | 📅 2026-08-10 *(label: good first issue)* <br> A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.
 * [Harmony](https://github.com/harmonydata/harmony) ⭐ 67 | 🐛 15 | 🌐 Python | 📅 2026-10-23 *(label: Good First Issue)* <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!
 
 ## Ruby
 
-* [Ruby on Rails](https://github.com/rails/rails) ⭐ 58,844 | 🐛 1,731 | 🌐 Ruby | 📅 2026-11-04 *(label: good first issue)* <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
-* [chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 38,841 | 🐛 1,616 | 🌐 Ruby | 📅 2026-11-04 *(label: good first issue)* <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
+* [Ruby on Rails](https://github.com/rails/rails) ⭐ 58,844 | 🐛 1,742 | 🌐 Ruby | 📅 2026-11-05 *(label: good first issue)* <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
+* [chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 38,909 | 🐛 1,620 | 🌐 Ruby | 📅 2026-11-05 *(label: good first issue)* <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 * [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,453 | 🐛 50 | 🌐 Ruby | 📅 2026-07-20 *(label: good first issue)* <br> Classy web-development dressed in a DSL.
-* [chef](https://github.com/chef/chef) ⭐ 8,258 | 🐛 425 | 🌐 Ruby | 📅 2026-11-04 *(label: Type:-Jump-In)* <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
-* [Hanami](https://github.com/hanami/hanami) ⭐ 6,430 | 🐛 33 | 🌐 Ruby | 📅 2026-11-03 *(label: easy)* <br> A modern framework for Ruby.
-* [JRuby](https://github.com/jruby/jruby) ⭐ 3,923 | 🐛 886 | 🌐 Ruby | 📅 2026-11-04 *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
-* [Avo Admin for Ruby on Rails](https://github.com/avo-hq/avo) ⭐ 1,812 | 🐛 134 | 🌐 Ruby | 📅 2026-11-04 *(label: Good first issue)* <br> Build business apps 10x faster using Ruby on Rails.
+* [chef](https://github.com/chef/chef) ⭐ 8,259 | 🐛 417 | 🌐 Ruby | 📅 2026-11-04 *(label: Type:-Jump-In)* <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
+* [Hanami](https://github.com/hanami/hanami) ⭐ 6,430 | 🐛 32 | 🌐 Ruby | 📅 2026-11-04 *(label: easy)* <br> A modern framework for Ruby.
+* [JRuby](https://github.com/jruby/jruby) ⭐ 3,925 | 🐛 889 | 🌐 Ruby | 📅 2026-11-04 *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
+* [Avo Admin for Ruby on Rails](https://github.com/avo-hq/avo) ⭐ 1,812 | 🐛 134 | 🌐 Ruby | 📅 2026-11-05 *(label: Good first issue)* <br> Build business apps 10x faster using Ruby on Rails.
 * [multiwoven](https://github.com/Multiwoven/multiwoven) ⭐ 1,684 | 🐛 213 | 🌐 Ruby | 📅 2026-11-03 *(label: good first issue)* <br> The open-source reverse ETL, data activation platform for modern data teams.
-* [open-build-service](https://github.com/openSUSE/open-build-service) ⭐ 1,090 | 🐛 1,251 | 🌐 Ruby | 📅 2026-11-03 *(label: good first issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
-* [osem](https://github.com/openSUSE/osem) ⭐ 930 | 🐛 247 | 🌐 Ruby | 📅 2026-11-04 *(label: good first issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
-* [ohai](https://github.com/chef/ohai) ⭐ 691 | 🐛 67 | 🌐 Ruby | 📅 2026-10-12 *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
+* [open-build-service](https://github.com/openSUSE/open-build-service) ⭐ 1,091 | 🐛 1,250 | 🌐 Ruby | 📅 2026-11-04 *(label: good first issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
+* [osem](https://github.com/openSUSE/osem) ⭐ 930 | 🐛 246 | 🌐 Ruby | 📅 2026-11-04 *(label: good first issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
+* [ohai](https://github.com/chef/ohai) ⭐ 691 | 🐛 68 | 🌐 Ruby | 📅 2026-11-05 *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 
 ## Rust
 
-* [Sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 41,857 | 🐛 57 | 🌐 Rust | 📅 2026-11-02 *(label: good first issue)* <br> Application to comfortably monitor network traffic.
-* [nushell](https://github.com/nushell/nushell) ⭐ 40,766 | 🐛 1,450 | 🌐 Rust | 📅 2026-11-04 *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
-* [Servo](https://github.com/servo/servo) ⭐ 38,313 | 🐛 3,192 | 🌐 Rust | 📅 2026-11-04 *(label: E-easy)* <br> A browser engine designed for applications including embedded use.
-* [Readest](https://github.com/readest/readest) ⭐ 25,930 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
-* [TiKV](https://github.com/tikv/tikv) ⭐ 16,937 | 🐛 2,001 | 🌐 Rust | 📅 2026-11-03 *(label: difficulty/easy)* <br> A distributed transactional key-value database
-* [Hyper](https://github.com/hyperium/hyper) ⭐ 16,394 | 🐛 231 | 🌐 Rust | 📅 2026-11-02 *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
-* [Rust-Clippy](https://github.com/rust-lang/rust-clippy) ⭐ 13,614 | 🐛 2,868 | 🌐 Rust | 📅 2026-11-03 *(label: good first issue)* <br> A bunch of lints to catch common mistakes and improve Rust code
-* [Pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,184 | 🐛 592 | 🌐 Rust | 📅 2026-11-03 *(label: good first issue)* <br> A fast Python typechecker and IDE written in Rust.
+* [Sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 41,870 | 🐛 56 | 🌐 Rust | 📅 2026-11-02 *(label: good first issue)* <br> Application to comfortably monitor network traffic.
+* [nushell](https://github.com/nushell/nushell) ⭐ 40,769 | 🐛 1,447 | 🌐 Rust | 📅 2026-11-04 *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
+* [Servo](https://github.com/servo/servo) ⭐ 38,329 | 🐛 3,179 | 🌐 Rust | 📅 2026-11-05 *(label: E-easy)* <br> A browser engine designed for applications including embedded use.
+* [Readest](https://github.com/readest/readest) ⭐ 25,964 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
+* [TiKV](https://github.com/tikv/tikv) ⭐ 16,935 | 🐛 2,000 | 🌐 Rust | 📅 2026-11-05 *(label: difficulty/easy)* <br> A distributed transactional key-value database
+* [Hyper](https://github.com/hyperium/hyper) ⭐ 16,395 | 🐛 231 | 🌐 Rust | 📅 2026-11-02 *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
+* [Rust-Clippy](https://github.com/rust-lang/rust-clippy) ⭐ 13,616 | 🐛 2,866 | 🌐 Rust | 📅 2026-11-05 *(label: good first issue)* <br> A bunch of lints to catch common mistakes and improve Rust code
+* [Pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,183 | 🐛 564 | 🌐 Rust | 📅 2026-11-05 *(label: good first issue)* <br> A fast Python typechecker and IDE written in Rust.
 * [Rustfmt](https://github.com/rust-lang/rustfmt) ⭐ 7,015 | 🐛 950 | 🌐 Rust | 📅 2026-11-03 *(label: good first issue)* <br> A tool for formatting Rust code according to style guidelines.
 * [Ockam](https://github.com/build-trust/ockam) ⭐ 4,639 | 🐛 93 | 🌐 Rust | 📅 2026-01-04 *(label: good first issue)* <br> End-to-end encryption and mutual authentication for distributed applications.
-* [videocall-rs](https://github.com/security-union/videocall-rs) ⭐ 1,805 | 🐛 76 | 🌐 Rust | 📅 2026-10-07 *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
-* [OffPDF](https://github.com/McanKul/offpdf) ⭐ 37 | 🐛 18 | 🌐 Rust | 📅 2026-10-30 *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
+* [videocall-rs](https://github.com/security-union/videocall-rs) ⭐ 1,804 | 🐛 76 | 🌐 Rust | 📅 2026-11-04 *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
+* [OffPDF](https://github.com/McanKul/offpdf) ⭐ 47 | 🐛 15 | 🌐 Rust | 📅 2026-11-05 *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
 * [Veloren](https://gitlab.com/veloren/veloren) *(label: n/a)* <br> Veloren is a multiplayer voxel RPG written in Rust.
 
 ## Scala
 
-* [playframework](https://github.com/playframework/playframework) ⭐ 12,622 | 🐛 484 | 🌐 Scala | 📅 2026-11-04 *(label: good first issue)* <br> The High Velocity Web Framework
+* [playframework](https://github.com/playframework/playframework) ⭐ 12,622 | 🐛 485 | 🌐 Scala | 📅 2026-11-05 *(label: good first issue)* <br> The High Velocity Web Framework
 
 ## Smalltalk
 
-* [Pharo](https://github.com/pharo-project/pharo) ⭐ 1,509 | 🐛 1,396 | 🌐 Smalltalk | 📅 2026-11-03 *(label: good first issue)* <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
+* [Pharo](https://github.com/pharo-project/pharo) ⭐ 1,511 | 🐛 1,393 | 🌐 Smalltalk | 📅 2026-11-04 *(label: good first issue)* <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 
 ## Swift
 
@@ -349,36 +349,36 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## TypeScript
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 194,556 | 🐛 21,996 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
-* [supabase](https://github.com/supabase/supabase) ⭐ 114,503 | 🐛 1,156 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-* [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 111,731 | 🐛 5,240 | 🌐 Go | 📅 2026-11-04 *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
-* [Storybook JS](https://github.com/storybookjs/storybook) ⭐ 91,448 | 🐛 1,740 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
-* [Vite](https://github.com/vitejs/vite) ⭐ 83,714 | 🐛 837 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-* [Metabase](https://github.com/metabase/metabase) ⭐ 50,150 | 🐛 4,658 | 🌐 Clojure | 📅 2026-11-04 *(label: good first issue)* <br> Open source business intelligence and analytics platform
-* [appsmith](https://github.com/appsmithorg/appsmith) ⭐ 41,153 | 🐛 4,535 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Drag & Drop internal tool builder
-* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,526 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.
-* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,125 | 🐛 2,356 | 🌐 TypeScript | 📅 2026-11-03 *(label: good first issue)* <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-* [Readest](https://github.com/readest/readest) ⭐ 25,930 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,354 | 🐛 96 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
-* [Vitest](https://github.com/vitest-dev/vitest) ⭐ 17,331 | 🐛 360 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A blazing fast unit test framework powered by Vite.
-* [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ⭐ 16,462 | 🐛 227 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-* [Amplication](https://github.com/amplication/amplication) ⭐ 16,010 | 🐛 666 | 🌐 TypeScript | 📅 2026-06-30 *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-* [OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 15,675 | 🐛 947 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-* [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) ⭐ 8,124 | 🐛 997 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
-* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,614 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
-* [Oppia](https://github.com/oppia/oppia) ⭐ 6,972 | 🐛 1,918 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
-* [LitmusChaos](https://github.com/litmuschaos/litmus) ⭐ 5,739 | 🐛 395 | 🌐 Go | 📅 2026-11-03 *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 194,664 | 🐛 22,036 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
+* [supabase](https://github.com/supabase/supabase) ⭐ 114,550 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+* [TypeScript](https://github.com/Microsoft/TypeScript) ⭐ 111,735 | 🐛 5,244 | 🌐 Go | 📅 2026-11-05 *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
+* [Storybook JS](https://github.com/storybookjs/storybook) ⭐ 91,460 | 🐛 1,764 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+* [Vite](https://github.com/vitejs/vite) ⭐ 83,740 | 🐛 830 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
+* [Metabase](https://github.com/metabase/metabase) ⭐ 50,174 | 🐛 4,671 | 🌐 Clojure | 📅 2026-11-05 *(label: good first issue)* <br> Open source business intelligence and analytics platform
+* [appsmith](https://github.com/appsmithorg/appsmith) ⭐ 41,161 | 🐛 4,521 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> Drag & Drop internal tool builder
+* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,533 | 🐛 1,607 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.
+* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,125 | 🐛 2,358 | 🌐 TypeScript | 📅 2026-11-03 *(label: good first issue)* <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+* [Readest](https://github.com/readest/readest) ⭐ 25,964 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,356 | 🐛 96 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
+* [Vitest](https://github.com/vitest-dev/vitest) ⭐ 17,338 | 🐛 353 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> A blazing fast unit test framework powered by Vite.
+* [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ⭐ 16,462 | 🐛 229 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
+* [Amplication](https://github.com/amplication/amplication) ⭐ 16,012 | 🐛 666 | 🌐 TypeScript | 📅 2026-06-30 *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+* [OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 15,680 | 🐛 903 | 🌐 TypeScript | 📅 2026-11-05 *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+* [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) ⭐ 8,123 | 🐛 997 | 🌐 TypeScript | 📅 2026-11-02 *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
+* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,618 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
+* [Oppia](https://github.com/oppia/oppia) ⭐ 6,975 | 🐛 1,926 | 🌐 Python | 📅 2026-11-04 *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+* [LitmusChaos](https://github.com/litmuschaos/litmus) ⭐ 5,739 | 🐛 403 | 🌐 Go | 📅 2026-11-05 *(label: good first issue)* <br> Litmus is a toolset to do cloud-native chaos engineering.
 * [H2O Wave](https://github.com/h2oai/wave) ⭐ 4,262 | 🐛 223 | 🌐 Python | 📅 2026-11-03 *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 * [tinyhttp](https://github.com/tinyhttp/tinyhttp) ⭐ 2,912 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-26 *(label: good first issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
-* [reatom](https://github.com/reatom/reatom) ⭐ 1,374 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+* [reatom](https://github.com/reatom/reatom) ⭐ 1,374 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 * [LinksHub](https://github.com/rupali-codes/LinksHub) ⭐ 1,018 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
-* [activist](https://github.com/activist-org/activist) ⭐ 765 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-01 *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
-* [Devopness](https://github.com/devopness/devopness) ⭐ 572 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
-* [Booster](https://github.com/boostercloud/booster) ⭐ 447 | 🐛 285 | 🌐 TypeScript | 📅 2026-10-29 *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+* [activist](https://github.com/activist-org/activist) ⭐ 765 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-01 *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+* [Devopness](https://github.com/devopness/devopness) ⭐ 575 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+* [Booster](https://github.com/boostercloud/booster) ⭐ 447 | 🐛 286 | 🌐 TypeScript | 📅 2026-11-04 *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 * [Impler.io](https://github.com/implerhq/impler.io) ⭐ 294 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-01 *(label: good first issue)* <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
 * [IterTools TS](https://github.com/Smoren/itertools-ts) ⭐ 92 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-18 *(label: good first issue)* <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
-* [OffPDF](https://github.com/McanKul/offpdf) ⭐ 37 | 🐛 18 | 🌐 Rust | 📅 2026-10-30 *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
-* [DevShelf](https://github.com/RitualDev-Lab/DevShelf) ⭐ 12 | 🐛 10 | 🌐 HTML | 📅 2026-11-03 *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+* [OffPDF](https://github.com/McanKul/offpdf) ⭐ 47 | 🐛 15 | 🌐 Rust | 📅 2026-11-05 *(label: good first issue)* <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
+* [DevShelf](https://github.com/RitualDev-Lab/DevShelf) ⭐ 12 | 🐛 10 | 🌐 HTML | 📅 2026-11-05 *(label: good first issue)* <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 
 ## Contribute
 
@@ -396,4 +396,4 @@ To the extent possible under law, the author has waived all copyrights and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
